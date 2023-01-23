@@ -1,0 +1,39 @@
+{
+  "landing":
+  [{
+    "$comment": "converted json to xml",
+    "query": "//included/item/type[text()='node--article']/../id"
+  }],
+  "title":
+  [{
+    "query": "/root/data/attributes/title",
+    "useSingleNode": true
+  }],
+  "published":
+  [{
+    "$comment": "uses unix seconds format: 1665049011",
+    "query": "/root/data/attributes/created",
+    "useSingleNode": true,
+    "options":
+    {
+      "$comment": "seconds format",
+      "unix": "s"
+    }
+  }],
+  "paragraphs":
+  [
+    {
+      "$comment": "title",
+      "query": "/root/data/attributes/title",
+      "useSingleNode": true
+    },
+    {
+      "$comment": "lead",
+      "query": "/root/data/attributes/field_summary/value"
+    },
+    {
+      "$comment": "paragraphs",
+      "query": "//item/type[text()='paragraph--paragraph_text_formatted']/../attributes/field_text_formatted/value"
+    }
+  ]
+}

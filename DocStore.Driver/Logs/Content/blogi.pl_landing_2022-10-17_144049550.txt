@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Przerwa techniczna</title>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <style type="text/css">
+            * {
+                margin: 0px;
+                padding: 0px;
+            }
+            body {
+                background-color: #fafafa;
+                font-family: 'helvetica';
+            }
+            .header {
+                margin: 20px auto;
+                text-align: center;
+                
+            }
+            .content {
+                background-color: white;
+                border: 1px solid #e3e3e3;
+                max-width: 800px;
+                margin: 20px auto;
+                padding: 20px 10px;
+                text-align: center;
+            }
+            a {
+                color: #ed1947;
+                text-decoration: none;
+            }
+        </style>
+    </head>
+    <body>
+        <div id="page">
+            <div class="header">
+                <a href="http://www.blogi.pl/">
+                
+                Blogi.pl
+                </a>
+            </div>
+            <div class="content">
+                <h2>Przerwa techniczna.</h2>
+                <br/>
+                <p>
+                    Przepraszamy, trwa przerwa techniczna.
+                </p>
+                <p>
+                    Zapraszamy ponownie za kilka minut.
+                </p>
+            </div>
+        </div>
+    </body>
+</html>

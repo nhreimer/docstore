@@ -1,0 +1,11 @@
+﻿{
+  "DumpOnQueryFailure": true,
+  "DumpDirectory": "D:/projects/_myprojects/DocStore/DocStore.Driver/Logs/Content/",
+  "DumpOnQueryTypes":
+  {
+    "landing": true,
+    "title": false,
+    "published": false,
+    "paragraphs": false
+  }
+}

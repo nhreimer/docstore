@@ -1,0 +1,39 @@
+{
+  "landing":
+  [{
+    "$comment": "there's so much shit on this site. can only tell articles by the href content",
+    "query": "//a[contains(@href,'/artykul/')]",
+    "attribute": "href"
+  }],
+  "title":
+  [{
+    "query": "//h1[@itemprop='name']",
+    "useSingleNode": true
+  }],
+  "published":
+  [{
+    "$comment": "21.09.2022",
+    "query": "//div[@class='article-date']",
+    "useSingleNode": true,
+    "options": 
+    {
+      "format": "dd.MM.yyyy"
+    }
+  }],
+  "paragraphs":
+  [
+    {
+      "$comment": "title",
+      "query": "//h1[@itemprop='name']",
+      "useSingleNode": true
+    },
+    {
+      "$comment": "lead",
+      "query": "//p[@class='lead']",
+      "useSingleNode": true
+    },
+    {
+      "query": "//div[@id='article-body']/p"
+    }
+  ]
+}

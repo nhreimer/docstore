@@ -1,0 +1,33 @@
+{
+  "landing":
+  [{
+    "query": "//*[@class='post-title']/a",
+    "attribute": "href"
+  }],
+  "title":
+  [{
+    "query": "//h1[@class='post-title']",
+    "useSingleNode": true
+  }],
+  "published":
+  [{
+    "$comment": "uses polish abbreviated months, e.g., 22 wrz 2022",
+    "query": "//span[@class='post-created']",
+    "useSingleNode": true,
+    "options":
+    {
+      "cultureName": "pl-PL"  
+    }
+  }],
+  "paragraphs":
+  [
+    {
+      "$comment": "title",
+      "query": "//h1[@class='post-title']",
+      "useSingleNode": true
+    },
+    {
+      "query": "//div[@class='post-content']//p"
+    }
+  ]
+}

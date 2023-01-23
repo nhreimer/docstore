@@ -1,0 +1,40 @@
+{
+  "landing":
+  [{
+    "$comment": "hard to disambiguate btwn real articles and jumps",
+    "query": "//li[@class='prio0']/a[@class='']",
+    "attribute": "href"
+  }],
+  "title":
+  [{
+    "query": "//div[@class='cf txt ']/h1",
+    "useSingleNode": true
+  }],
+  "published":
+  [{
+    "$comment": "date format is dd.MM.yyyy HH:mm",
+    "query": "//span[@class='txt__doc-date']",
+    "useSingleNode": true,
+    "options": 
+    {
+      "format": "\\do\\dane dd.MM.yyyy HH:mm"
+    }
+  }],
+  "paragraphs":
+  [
+    {
+      "$comment": "title",
+      "query": "//div[@class='cf txt ']/h1",
+      "useSingleNode": true
+    },
+    {
+      "$comment": "lead",
+      "query": "//div[@class='txt__lead']/p",
+      "useSingleNode": true
+    },
+    {
+      "$comment": "paragraphs are pretty neatly packed into blocks",
+      "query": "//div[@class=' txt__rich-area']/p"
+    }
+  ]
+}

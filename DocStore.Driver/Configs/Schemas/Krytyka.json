@@ -1,0 +1,34 @@
+{
+  "landing":
+  [{
+    "query": "//a[@itemprop='mainEntityOfPage']",
+    "attribute": "href"
+  }],
+  "title":
+  [{
+    "query": "//h1[@class='entity-title']|//h1[@class='entry-title']",
+    "useSingleNode": true
+  }],
+  "published":
+  [{
+    "query": "//meta[@property='article:published_time']",
+    "attribute": "content",
+    "useSingleNode": true
+  }],
+  "paragraphs":
+  [
+    {
+      "$comment": "title",
+      "query": "//h1[@class='entity-title']|//h1[@class='entry-title']",
+      "useSingleNode": true
+    },
+    {
+      "$comment": "lead",
+      "query": "//p[@class='post-lead']",
+      "useSingleNode": true
+    },
+    {
+      "query": "//div[@class='single-post-content']/p"
+    }
+  ]
+}

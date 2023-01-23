@@ -1,0 +1,629 @@
+﻿{
+  "total": 10000,
+  "hits": [
+    {
+      "date": "2022-10-07 17:27:07",
+      "thumbnail": "/wp-content/uploads/2022/10/w22-hajima-1.jpg",
+      "taxonomies": {
+        "category": [
+          {
+            "name": "Hot News",
+            "id": 4,
+            "urlPath": "hot-news",
+            "urlKey": "hot-news"
+          },
+          {
+            "name": "Cybersport Extra",
+            "id": 7,
+            "urlPath": "cybersport-extra",
+            "urlKey": "cybersport-extra"
+          },
+          {
+            "name": "League of Legends",
+            "id": 9,
+            "urlPath": "gry/league-of-legends",
+            "urlKey": "league-of-legends"
+          }
+        ]
+      },
+      "author": {
+        "name": "Dominik Erdman",
+        "avatar": "https://0.gravatar.com/avatar/c44dfc38f4f85234a4772667f897989b",
+        "urlKey": "derdman"
+      },
+      "id": 332419,
+      "title": "10 pytań przed fazą grupową Worlds – Kamil \"Hajima\" Żmudzki",
+      "type": "post",
+      "excerpt": "Faza play-in Worlds 2022 zakończona, czas na główne danie w postaci fazy grupowej. Już dziś w akcji zobaczymy między innymi G2 Esports Marcina \"Jankosa\" Jankowskiego, DWG KIA czy też zakwalifikowane z poprzedniego etapu Fnatic oraz Evil Geniuses. Zanim jednak rzucimy się w wir walki, zapraszamy na kolejną dawkę predykcji od osób ze sceny LoL-a – na naszych 10 pytań przed fazą grupową Worlds odpowiedział Kamil \"Hajima\" Żmudzki.",
+      "urlKey": "10-pytan-przed-faza-grupowa-worlds-kamil-hajima-zmudzki"
+    },
+    {
+      "date": "2022-10-07 15:15:53",
+      "thumbnail": "/wp-content/uploads/2022/10/morelz_illuminar_eplconference22.jpg",
+      "taxonomies": {
+        "category": [
+          {
+            "name": "Counter-Strike: Global Offensive",
+            "id": 2,
+            "urlPath": "gry/counter-strike-global-offensive",
+            "urlKey": "counter-strike-global-offensive"
+          }
+        ]
+      },
+      "author": {
+        "name": "Maciej Ciemniewski",
+        "avatar": "https://0.gravatar.com/avatar/58430d9bda95a7344a8806089956b19e",
+        "urlKey": "mciemniewski"
+      },
+      "id": 332400,
+      "title": "Illuminar pokonuje FANTASY i pozostaje w RMR",
+      "type": "post",
+      "excerpt": "W meczu eliminacji z turnieju RMR niefortunnie doszło do starcia Illuminar Gaming z ekipą Filipa \"tudsoNa\" Tudeva – FANTASY. ESL Mistrzowie Polski mogą się cieszyć z dalszej gry o Majora w Rio, gdyż po zaciekłym boju (i reverse sweepie) wygrali 2:1.",
+      "urlKey": "illuminar-pokonuje-fantasy-i-pozostaje-w-rmr"
+    },
+    {
+      "date": "2022-10-07 14:51:53",
+      "thumbnail": "/wp-content/uploads/2022/06/dycha_ence_iemdallas22.jpg",
+      "taxonomies": {
+        "category": [
+          {
+            "name": "Counter-Strike: Global Offensive",
+            "id": 2,
+            "urlPath": "gry/counter-strike-global-offensive",
+            "urlKey": "counter-strike-global-offensive"
+          },
+          {
+            "name": "Hot News",
+            "id": 4,
+            "urlPath": "hot-news",
+            "urlKey": "hot-news"
+          }
+        ]
+      },
+      "author": {
+        "name": "Maciej Ciemniewski",
+        "avatar": "https://0.gravatar.com/avatar/58430d9bda95a7344a8806089956b19e",
+        "urlKey": "mciemniewski"
+      },
+      "id": 332409,
+      "title": "ENCE melduje się na Majorze! Drużyna dychy niepokonana w turnieju RMR",
+      "type": "post",
+      "excerpt": "ENCE tak jak Natus Vincere może już się cieszyć z awansu do fazy legend Majora. Do tej pory pokonali dwie francuskie formacje – HEET i Falcons, a dzisiaj dołożyli zwycięstwo na niemieckie BIG, notując tym samym bilans 3-0.",
+      "urlKey": "ence-melduje-sie-na-majorze-druzyna-dychy-niepokonana-w-turnieju-rmr"
+    },
+    {
+      "date": "2022-10-07 14:20:42",
+      "thumbnail": "/wp-content/uploads/2022/10/upset_hylissang_fnatic_worlds2022.jpg",
+      "taxonomies": {
+        "category": [
+          {
+            "name": "Hot News",
+            "id": 4,
+            "urlPath": "hot-news",
+            "urlKey": "hot-news"
+          },
+          {
+            "name": "League of Legends",
+            "id": 9,
+            "urlPath": "gry/league-of-legends",
+            "urlKey": "league-of-legends"
+          }
+        ]
+      },
+      "author": {
+        "name": "Dawid Pątko",
+        "avatar": "https://0.gravatar.com/avatar/48b3e7f4babcaab552f2b7022d38f620",
+        "urlKey": "dpatko"
+      },
+      "id": 332401,
+      "title": "Rozpoczynamy fazę grupową Worlds. Na pierwszy ogień Europa kontra Ameryka",
+      "type": "post",
+      "excerpt": "Co prawda, faza play-in Mistrzostw Świata 2022 w League of Legends już za nami, ale tak naprawdę to teraz Worlds ruszają pełną parą. Dzisiaj po raz pierwszy od Mid-Season Invitational zobaczymy pojedynki najlepszych drużyn poszczególnych regionów na międzynarodowej scenie.",
+      "urlKey": "rozpoczynamy-faze-grupowa-worlds-na-pierwszy-ogien-eu-vs-na"
+    },
+    {
+      "date": "2022-10-07 12:20:55",
+      "thumbnail": "/wp-content/uploads/2022/09/s1mple_navi_epl16.jpg",
+      "taxonomies": {
+        "category": [
+          {
+            "name": "Counter-Strike: Global Offensive",
+            "id": 2,
+            "urlPath": "gry/counter-strike-global-offensive",
+            "urlKey": "counter-strike-global-offensive"
+          },
+          {
+            "name": "Hot News",
+            "id": 4,
+            "urlPath": "hot-news",
+            "urlKey": "hot-news"
+          },
+          {
+            "name": "IEM",
+            "id": 8,
+            "urlPath": "iem",
+            "urlKey": "iem"
+          }
+        ]
+      },
+      "author": {
+        "name": "Maciej Petryszyn",
+        "avatar": "https://0.gravatar.com/avatar/dbe7acdefc6290bcd5f8cf220083073b",
+        "urlKey": "mpetryszyn"
+      },
+      "id": 332398,
+      "title": "Pięć ekip pewne gry na Majorze CS:GO. Kogo na pewno zobaczymy w Rio?",
+      "type": "post",
+      "excerpt": "Minie jeszcze kilka dni nim poznamy pełną listę uczestników nadchodzącego Majora CS:GO. Niemniej już teraz kilka ekip zdążyło zapewnić sobie miejsce na Intel Extreme Masters Rio 2022. Kogo więc na pewno zobaczymy na brazylijskim turnieju CS:GO?",
+      "urlKey": "piec-ekip-pewne-gry-na-majorze-csgo-kogo-na-pewno-zobaczymy-w-rio"
+    },
+    {
+      "date": "2022-10-07 10:50:37",
+      "thumbnail": "/wp-content/uploads/2022/10/reatz_illuminar_iem-rmr22.jpg",
+      "taxonomies": {
+        "category": [
+          {
+            "name": "Counter-Strike: Global Offensive",
+            "id": 2,
+            "urlPath": "gry/counter-strike-global-offensive",
+            "urlKey": "counter-strike-global-offensive"
+          },
+          {
+            "name": "Hot News",
+            "id": 4,
+            "urlPath": "hot-news",
+            "urlKey": "hot-news"
+          },
+          {
+            "name": "IEM",
+            "id": 8,
+            "urlPath": "iem",
+            "urlKey": "iem"
+          }
+        ]
+      },
+      "author": {
+        "name": "Maciej Petryszyn",
+        "avatar": "https://0.gravatar.com/avatar/dbe7acdefc6290bcd5f8cf220083073b",
+        "urlKey": "mpetryszyn"
+      },
+      "id": 332394,
+      "title": "Illuminar czy tudsoN – kto odpadnie dziś z gry o Majora?",
+      "type": "post",
+      "excerpt": "Za Illuminar Gaming dwa mecze w ramach Intel Extreme Masters Road to Rio. Oba niestety przegrane, co oznacza, że już dziś mistrzowie Polski przystąpią do pierwszego z bojów o życie. Co ciekawe, na ich drodze stanie ekipa, w której składzie również znajduje się jeden z naszych rodaków.",
+      "urlKey": "illuminar-czy-tudson-kto-odpadnie-dzis-z-gry-o-majora"
+    },
+    {
+      "date": "2022-10-07 09:41:31",
+      "thumbnail": "/wp-content/uploads/2022/09/FRENZY_VALORANT_vilczek_36.CR3-1.jpg",
+      "taxonomies": {
+        "category": [
+          {
+            "name": "VALORANT",
+            "id": 13440,
+            "urlPath": "gry/valorant",
+            "urlKey": "valorant"
+          }
+        ]
+      },
+      "author": {
+        "name": "Andrzej Kowalski",
+        "avatar": "https://0.gravatar.com/avatar/48828b762e658aed99fa5b6a4d8a6849",
+        "urlKey": "akowalski"
+      },
+      "id": 332388,
+      "title": "Pora na czwarty Weekly Cup. Kto zamelduje się w VEU?",
+      "type": "post",
+      "excerpt": "Przyszła pora na kolejną dawkę emocji w ramach VALORANT EAST: UNITED. Już dzisiaj wieczorem rozpocznie się rywalizacja w czwartym już Weekly Cupie i potrwa ona aż do samej niedzieli. Co nas czeka w ten weekend?",
+      "urlKey": "pora-na-czwarty-weekly-cup-kto-zamelduje-sie-w-veu"
+    },
+    {
+      "date": "2022-10-07 00:00:06",
+      "thumbnail": "/wp-content/uploads/2022/02/puchar_eslmpjesien21.jpg",
+      "taxonomies": {
+        "category": [
+          {
+            "name": "Counter-Strike: Global Offensive",
+            "id": 2,
+            "urlPath": "gry/counter-strike-global-offensive",
+            "urlKey": "counter-strike-global-offensive"
+          },
+          {
+            "name": "ESL Mistrzostwa Polski",
+            "id": 12408,
+            "urlPath": "esl/esl-mistrzostwa-polski",
+            "urlKey": "esl-mistrzostwa-polski"
+          }
+        ]
+      },
+      "author": {
+        "name": "Maciej Ciemniewski",
+        "avatar": "https://0.gravatar.com/avatar/58430d9bda95a7344a8806089956b19e",
+        "urlKey": "mciemniewski"
+      },
+      "id": 332368,
+      "title": "ESL MP: W grupie B PALOMA cały czas na szczycie",
+      "type": "post",
+      "excerpt": "Podczas szóstej kolejki grupy B w ESL Mistrzostwach Polski mogło dojść do wielu zwrotów akcji, jednak po jej zakończeniu możemy zobaczyć raczej tylko kosmetyczne zmiany. Co prawda ThunderFlash wyprzedziło MAD DOG'S PACT, lecz Dawid \"lunAtic\" Cieślak i spółka ma zaległe mecze do rozegrania.",
+      "urlKey": "esl-mp-w-grupie-b-paloma-caly-czas-na-szczycie"
+    },
+    {
+      "date": "2022-10-06 23:22:22",
+      "thumbnail": "/wp-content/uploads/2022/09/asran_thunderflash_eslmp22_md.jpg",
+      "taxonomies": {
+        "category": [
+          {
+            "name": "Counter-Strike: Global Offensive",
+            "id": 2,
+            "urlPath": "gry/counter-strike-global-offensive",
+            "urlKey": "counter-strike-global-offensive"
+          },
+          {
+            "name": "ESL Mistrzostwa Polski",
+            "id": 12408,
+            "urlPath": "esl/esl-mistrzostwa-polski",
+            "urlKey": "esl-mistrzostwa-polski"
+          }
+        ]
+      },
+      "author": {
+        "name": "Jarosław Piłat",
+        "avatar": "https://0.gravatar.com/avatar/ec7eab1a9a08238bf765ade3f365e6e7",
+        "urlKey": "jpilat"
+      },
+      "id": 332370,
+      "title": "Zwycięstwo ThunderFlash na koniec szóstego tygodnia ESL MP",
+      "type": "post",
+      "excerpt": "Na koniec tej kolejki ESL Mistrzostw Polski Jesień 2022 naprzeciw siebie stanęły FurryFury Ungentium oraz ThunderFlash. Mimo lepszego startu w wykonaniu fioletowych, ostatecznie po zwycięstwo sięgnęło TF, dopisując kolejne trzy punkty do swojego dorobku i zmniejszając nieco dystans do przodującej PALOMY.",
+      "urlKey": "zwyciestwo-thunderflash-na-koniec-szostego-tygodnia-esl-mp"
+    },
+    {
+      "date": "2022-10-06 22:30:21",
+      "thumbnail": "/wp-content/uploads/2022/03/olimp_forsaken_eslmp22_md.jpg",
+      "taxonomies": {
+        "category": [
+          {
+            "name": "Counter-Strike: Global Offensive",
+            "id": 2,
+            "urlPath": "gry/counter-strike-global-offensive",
+            "urlKey": "counter-strike-global-offensive"
+          },
+          {
+            "name": "ESL Mistrzostwa Polski",
+            "id": 12408,
+            "urlPath": "esl/esl-mistrzostwa-polski",
+            "urlKey": "esl-mistrzostwa-polski"
+          }
+        ]
+      },
+      "author": {
+        "name": "Maciej Ciemniewski",
+        "avatar": "https://0.gravatar.com/avatar/58430d9bda95a7344a8806089956b19e",
+        "urlKey": "mciemniewski"
+      },
+      "id": 332355,
+      "title": "Niezwykle zacięte spotkanie w ESL MP. Ostatecznie PALOMA triumfuje nad PGE Turowem",
+      "type": "post",
+      "excerpt": "PALOMA tuż po udanym pierwszym meczu z ThunderFlash podjęła PGE Turów Zgorzelec. Po wyjątkowo bliskim meczu udało jej się zgarnąć komplet punktów jednego dnia w ESL Mistrzostwach Polski, umacniając się na pierwszym miejscu w grupie B.",
+      "urlKey": "niezwykle-zaciete-spotkanie-w-esl-mp-ostatecznie-paloma-triumfuje-nad-pge-turowem"
+    },
+    {
+      "date": "2022-10-06 21:17:44",
+      "thumbnail": "/wp-content/uploads/2022/10/mhl_endpoint.jpg",
+      "taxonomies": {
+        "category": [
+          {
+            "name": "Counter-Strike: Global Offensive",
+            "id": 2,
+            "urlPath": "gry/counter-strike-global-offensive",
+            "urlKey": "counter-strike-global-offensive"
+          },
+          {
+            "name": "Hot News",
+            "id": 4,
+            "urlPath": "hot-news",
+            "urlKey": "hot-news"
+          }
+        ]
+      },
+      "author": {
+        "name": "Maciej Petryszyn",
+        "avatar": "https://0.gravatar.com/avatar/dbe7acdefc6290bcd5f8cf220083073b",
+        "urlKey": "mpetryszyn"
+      },
+      "id": 332362,
+      "title": "Oficjalnie: mhL nowym snajperem Endpoint!",
+      "type": "post",
+      "excerpt": "Wyjaśniła się przyszłość Miłosza \"mhL-a\" Knasiaka. Młody snajper, który dopiero co rozstał się z akademią MOUZ, zdecydował się pozostać na zagranicznej scenie. Co więcej, związał się on z organizacją, w której będzie miał okazję grać u boku mistrza świata z 2017 roku.",
+      "urlKey": "oficjalnie-mhl-nowym-snajperem-endpoint"
+    },
+    {
+      "date": "2022-10-06 21:04:36",
+      "thumbnail": "/wp-content/uploads/2022/10/bogdan_RockstarEnergy2v2.jpg",
+      "taxonomies": {
+        "category": [
+          {
+            "name": "Counter-Strike: Global Offensive",
+            "id": 2,
+            "urlPath": "gry/counter-strike-global-offensive",
+            "urlKey": "counter-strike-global-offensive"
+          }
+        ]
+      },
+      "author": {
+        "name": "Maciej Petryszyn",
+        "avatar": "https://0.gravatar.com/avatar/dbe7acdefc6290bcd5f8cf220083073b",
+        "urlKey": "mpetryszyn"
+      },
+      "id": 332350,
+      "title": "bogdan i hades tracą pracodawcę. Finest zamyka organizację",
+      "type": "post",
+      "excerpt": "Po ponad trzech latach Team Finest znika z esportowej mapy świata. Izraelska organizacja oficjalnie ogłosiła za pośrednictwem swoich mediów społecznościowych zakończenie swojej działalności. Wpływ na taki rozwój wypadków, jak nietrudno się domyślić, miały sprawy natury finansowej.",
+      "urlKey": "bogdan-i-hades-traca-pracodawce-finest-zamyka-organizacje"
+    },
+    {
+      "date": "2022-10-06 20:04:53",
+      "thumbnail": "/wp-content/uploads/2022/03/snx_forsaken_eslmp22_md.jpg",
+      "taxonomies": {
+        "category": [
+          {
+            "name": "Counter-Strike: Global Offensive",
+            "id": 2,
+            "urlPath": "gry/counter-strike-global-offensive",
+            "urlKey": "counter-strike-global-offensive"
+          },
+          {
+            "name": "ESL Mistrzostwa Polski",
+            "id": 12408,
+            "urlPath": "esl/esl-mistrzostwa-polski",
+            "urlKey": "esl-mistrzostwa-polski"
+          }
+        ]
+      },
+      "author": {
+        "name": "Maciej Petryszyn",
+        "avatar": "https://0.gravatar.com/avatar/dbe7acdefc6290bcd5f8cf220083073b",
+        "urlKey": "mpetryszyn"
+      },
+      "id": 332354,
+      "title": "PALOMA znowu zwycięska w ESL Mistrzostwach Polski",
+      "type": "post",
+      "excerpt": "Czwarta wygrana w ESL Mistrzostwach Polski wpadła na konto PALOMY! Zespół, który nie posiada nawet wsparcia organizacji, tym razem okazał się lepszy od ThunderFlash, które ponownie musiało wspomagać się stand-inem. Tym razem jednak nie był to Janusz \"Snax\" Pogorzelski.",
+      "urlKey": "paloma-znowu-zwycieska-w-esl-mistrzostwach-polski"
+    },
+    {
+      "date": "2022-10-06 18:44:28",
+      "thumbnail": "/wp-content/uploads/2022/10/predator-league-emea-2022.jpeg",
+      "taxonomies": {
+        "category": [
+          {
+            "name": "Rocket League",
+            "id": 3323,
+            "urlPath": "gry/rocket_league",
+            "urlKey": "rocket_league"
+          }
+        ]
+      },
+      "author": {
+        "name": "Jarosław Piłat",
+        "avatar": "https://0.gravatar.com/avatar/ec7eab1a9a08238bf765ade3f365e6e7",
+        "urlKey": "jpilat"
+      },
+      "id": 332345,
+      "title": "Szansa dla graczy Rocket League. Startują kwalifikacje do Predator League 2022",
+      "type": "post",
+      "excerpt": "Kwalifikacje do jesiennego splitu Rocket League Championship Series wystartują już wkrótce. Niemniej RLCS, choć najbardziej prestiżowe, to nie będą jedyne rozgrywki, gdzie gracze Rocket League aspirujący do miana profesjonalnych będą mieli szansę powalczyć o okazałe nagrody – i to na międzynarodowej scenie. Już w tę sobotę rozpoczną się również eliminacje do polskich zawodów Acer Predator League 2022, których triumfator zmierzy się z innymi reprezentantami regionu EMEA.",
+      "urlKey": "szansa-dla-graczy-rocket-league-startuja-kwalifikacje-do-predator-league-2022"
+    },
+    {
+      "date": "2022-10-06 14:09:33",
+      "thumbnail": "/wp-content/uploads/2022/10/zekken-XSET-VALORANT-Champions.jpg",
+      "taxonomies": {
+        "category": [
+          {
+            "name": "VALORANT",
+            "id": 13440,
+            "urlPath": "gry/valorant",
+            "urlKey": "valorant"
+          }
+        ]
+      },
+      "author": {
+        "name": "Andrzej Kowalski",
+        "avatar": "https://0.gravatar.com/avatar/48828b762e658aed99fa5b6a4d8a6849",
+        "urlKey": "akowalski"
+      },
+      "id": 332338,
+      "title": "zekken w Sentinels. 17-latek znów połączy siły ze swoim byłym trenerem",
+      "type": "post",
+      "excerpt": "Nie minęło sporo czasu od momentu, kiedy Sentinels ogłosiło swoje pierwsze nabytki w postaci sztabu szkoleniowego, a już poznaliśmy pierwszego z nowych zawodników. Do organizacji oficjalnie dołącza bowiem Zachary \"zekken\" Patrone.",
+      "urlKey": "zekken-w-sentinels-17-latek-znow-polaczy-sily-ze-swoim-bylym-trenerem"
+    },
+    {
+      "date": "2022-10-06 12:52:47",
+      "thumbnail": "/wp-content/uploads/2022/09/thunderflash-esl-mistrzostwa-polski-jesien-2022-esl-mp.jpg",
+      "taxonomies": {
+        "category": [
+          {
+            "name": "Counter-Strike: Global Offensive",
+            "id": 2,
+            "urlPath": "gry/counter-strike-global-offensive",
+            "urlKey": "counter-strike-global-offensive"
+          },
+          {
+            "name": "ESL Mistrzostwa Polski",
+            "id": 12408,
+            "urlPath": "esl/esl-mistrzostwa-polski",
+            "urlKey": "esl-mistrzostwa-polski"
+          }
+        ]
+      },
+      "author": {
+        "name": "Maciej Ciemniewski",
+        "avatar": "https://0.gravatar.com/avatar/58430d9bda95a7344a8806089956b19e",
+        "urlKey": "mciemniewski"
+      },
+      "id": 332333,
+      "title": "PALOMA i ThunderFlash przed ważnym dniem w ESL MP",
+      "type": "post",
+      "excerpt": "W dzisiejszych spotkaniach ESL Mistrzostw Polski dojdzie do pojedynków drużyn bijących się o czołówkę grupy B. Może dojść do wielu zmian w tabeli, ponieważ ThunderFlash oraz PALOMA rozegrają po dwa mecze, w tym jeden przeciwko sobie.",
+      "urlKey": "paloma-i-thunderflash-przed-waznym-dniem-w-esl-mp"
+    },
+    {
+      "date": "2022-10-05 16:21:42",
+      "thumbnail": "/wp-content/uploads/2022/10/exus_illuminar_iem-rmr22.jpg",
+      "taxonomies": {
+        "category": [
+          {
+            "name": "Counter-Strike: Global Offensive",
+            "id": 2,
+            "urlPath": "gry/counter-strike-global-offensive",
+            "urlKey": "counter-strike-global-offensive"
+          },
+          {
+            "name": "Hot News",
+            "id": 4,
+            "urlPath": "hot-news",
+            "urlKey": "hot-news"
+          },
+          {
+            "name": "IEM",
+            "id": 8,
+            "urlPath": "iem",
+            "urlKey": "iem"
+          }
+        ]
+      },
+      "author": {
+        "name": "Maciej Ciemniewski",
+        "avatar": "https://0.gravatar.com/avatar/58430d9bda95a7344a8806089956b19e",
+        "urlKey": "mciemniewski"
+      },
+      "id": 332315,
+      "title": "Illuminar z drugą porażką w RMR",
+      "type": "post",
+      "excerpt": "W meczu drużyn z bilansem 0:1 Illuminar Gaming trafiło na ekipę Macieja \"F1KA\" Miklasa, OG. Zwycięsko z tego pojedynku wyszedł były reprezentant AGO Esports wraz ze swoimi kolegami, nie dając większych szans swoim rywalom.",
+      "urlKey": "illuminar-z-druga-porazka-na-rmr"
+    },
+    {
+      "date": "2022-10-05 16:03:24",
+      "thumbnail": "/wp-content/uploads/2022/10/Hans-Niemann.jpg",
+      "taxonomies": {
+        "category": [
+          {
+            "name": "Pozostałe",
+            "id": 16,
+            "urlPath": "gry/pozostale",
+            "urlKey": "pozostale"
+          }
+        ]
+      },
+      "author": {
+        "name": "Maciej Ciemniewski",
+        "avatar": "https://0.gravatar.com/avatar/58430d9bda95a7344a8806089956b19e",
+        "urlKey": "mciemniewski"
+      },
+      "id": 332301,
+      "title": "Chess.com potwierdza oskarżenia Carlsena. Niemann miał oszukiwać",
+      "type": "post",
+      "excerpt": "W ostatnim czasie o szachowym świecie zrobiło się całkiem głośno. Nie tak dawno temu mistrz świata, Magnus Carlsen, ogłosił, że nie będzie bronił swojego tytułu, a następnie oficjalnie oskarżył Hansa Niemanna o oszukiwanie. W związku z tym portal Chess.com wydał raport, który potwierdził podejrzenia Norwega.",
+      "urlKey": "hans-niemann-slusznie-oskarzony-o-oszustwo"
+    },
+    {
+      "date": "2022-10-05 15:17:52",
+      "thumbnail": "/wp-content/uploads/2022/10/tudson_fantasy_iem-rmr22.jpg",
+      "taxonomies": {
+        "category": [
+          {
+            "name": "Counter-Strike: Global Offensive",
+            "id": 2,
+            "urlPath": "gry/counter-strike-global-offensive",
+            "urlKey": "counter-strike-global-offensive"
+          },
+          {
+            "name": "Hot News",
+            "id": 4,
+            "urlPath": "hot-news",
+            "urlKey": "hot-news"
+          },
+          {
+            "name": "IEM",
+            "id": 8,
+            "urlPath": "iem",
+            "urlKey": "iem"
+          }
+        ]
+      },
+      "author": {
+        "name": "Maciej Petryszyn",
+        "avatar": "https://0.gravatar.com/avatar/dbe7acdefc6290bcd5f8cf220083073b",
+        "urlKey": "mpetryszyn"
+      },
+      "id": 332310,
+      "title": "Druga porażka FANTASY. Ekipa tudsoNa z nożem na gardle",
+      "type": "post",
+      "excerpt": "Filip \"tudsoN\" Tudev i spółka wyczerpali już limit błędów na Intel Extreme Masters Road to Rio. FANTASY, którego graczem jest polski snajper, w swoim drugim meczu na maltańskiej imprezie musiało bowiem uznać wyższość Sangal Esports.",
+      "urlKey": "druga-porazka-fantasy-ekipa-tudsona-z-nozem-na-gardle"
+    },
+    {
+      "date": "2022-10-05 13:48:01",
+      "thumbnail": "/wp-content/uploads/2022/10/siuhy2_gamerlegion_iem-rmr22.jpg",
+      "taxonomies": {
+        "category": [
+          {
+            "name": "Counter-Strike: Global Offensive",
+            "id": 2,
+            "urlPath": "gry/counter-strike-global-offensive",
+            "urlKey": "counter-strike-global-offensive"
+          },
+          {
+            "name": "Hot News",
+            "id": 4,
+            "urlPath": "hot-news",
+            "urlKey": "hot-news"
+          },
+          {
+            "name": "IEM",
+            "id": 8,
+            "urlPath": "iem",
+            "urlKey": "iem"
+          }
+        ]
+      },
+      "author": {
+        "name": "Maciej Petryszyn",
+        "avatar": "https://0.gravatar.com/avatar/dbe7acdefc6290bcd5f8cf220083073b",
+        "urlKey": "mpetryszyn"
+      },
+      "id": 332303,
+      "title": "GamerLegion z pierwszą wygraną na IEM Road to Rio",
+      "type": "post",
+      "excerpt": "Dzień po porażce z FaZe Clanem GamerLegion zgarnął pierwsze zwycięstwo podczas Intel Extreme Masters Road to Rio. Zespół Kamila \"siuhego\" Szkaradka tym razem okazał się lepszy od Aurory Gaming, która ma już na swoim koncie dwie porażki.",
+      "urlKey": "gamerlegion-z-pierwsza-wygrana-na-iem-road-to-rio"
+    },
+    {
+      "date": "2022-10-05 13:03:50",
+      "thumbnail": "/wp-content/uploads/2022/06/ago_rogue_ultraliga.jpg",
+      "taxonomies": {
+        "category": [
+          {
+            "name": "League of Legends",
+            "id": 9,
+            "urlPath": "gry/league-of-legends",
+            "urlKey": "league-of-legends"
+          }
+        ]
+      },
+      "author": {
+        "name": "Dawid Laskowski",
+        "avatar": "https://0.gravatar.com/avatar/2ae12c11df759b36e249569946a31fde",
+        "urlKey": "dlaskowski"
+      },
+      "id": 332297,
+      "title": "Rozdano zaproszenia do Super Pucharu Ultraligi. Wśród uczestników m.in. AGO ROGUE",
+      "type": "post",
+      "excerpt": "Przez ostatnie dwa lata rok League of Legends na naszym podwórku wieńczył Trinity Force Puchar Polski. Rozgrywki jednak przeszły transformacje nie tylko pod względem nazwy, ale też i regulaminu. Wiemy już zatem, że typowych sklejek drużynowych będzie znacznie mniej. Dziś natomiast organizatorzy ogłosili cztery zespoły, które zostały bezpośrednio zaproszone do wzięcia udziału w rywalizacji.",
+      "urlKey": "rozdano-zaproszenia-do-super-pucharu-ultraligi-wsrod-uczestnikow-m-in-ago-rogue"
+    }
+  ]
+}

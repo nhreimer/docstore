@@ -1,0 +1,24 @@
+{
+  "nested": 
+  [
+    {
+      "query": "//div",
+      "onSuccess":
+      {
+        "query": "//div/pushit",
+        "onFailure":
+        {
+          "query": "//div//p",
+          "onSuccess":
+          {
+            "query": "//div"
+          },
+          "onFailure":
+          {
+            "query": "//div//div"
+          }
+        }
+      }
+    }
+  ]
+}

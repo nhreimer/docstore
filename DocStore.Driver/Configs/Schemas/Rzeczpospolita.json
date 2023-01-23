@@ -1,0 +1,39 @@
+{
+  "landing":
+  [{
+    "query": "//a[contains(@class,'contentLink')]",
+    "attribute": "href"
+  }],
+  "title":
+  [{
+    "query": "//h1[contains(@class,'articleTitle')]",
+    "useSingleNode": true
+  }],
+  "published":
+  [{
+    "$comment": "date format is dd.MM.yyyy hh:mm 19.09.2022 22:00",
+    "query": "//span[@id='livePublishedAtContainer']",
+    "useSingleNode": true,
+    "options":
+    {
+      "format": "dd.MM.yyyy HH:mm"
+    }
+  }],
+  "paragraphs":
+  [
+    {
+      "$comment": "title",
+      "query": "//h1[contains(@class,'articleTitle')]",
+      "useSingleNode": true
+    },
+    {
+      "$comment": "lead",
+      "query": "//p[contains(@class,'subtitle')]",
+      "useSingleNode": true
+    },
+    {
+      "$comment": "paragraphs are pretty neatly packed into blocks",
+      "query": "//p[contains(@class,'articleBodyBlock')]"
+    }
+  ]
+}

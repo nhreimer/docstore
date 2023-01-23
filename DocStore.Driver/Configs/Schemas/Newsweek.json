@@ -1,0 +1,34 @@
+﻿{
+  "landing":
+  [{
+    "query": "//a[starts-with(@class,'pw-special-section')]|//a[starts-with(@class,'hp-art')]|//div[@data-cy='article-title']/a|//a[contains(@class,'__article')]",
+    "attribute": "href"
+  }],
+  "title":
+  [{
+    "query": "//h1[starts-with(@class,'article-headline')]",
+    "useSingleNode": true
+  }],
+  "published":
+  [{
+    "query": "//meta[@property='article:published_time']",
+    "attribute": "content",
+    "useSingleNode": true
+  }],
+  "paragraphs":
+  [
+    {
+      "$comment": "title",
+      "query": "//h1[starts-with(@class,'article-headline')]",
+      "useSingleNode": true
+    },
+    {
+      "$comment": "lead",
+      "query": "//div[@id='lead']",
+      "useSingleNode": true
+    },
+    {
+      "query": "//div[@class='article-body-text']//p"
+    }
+  ]
+}

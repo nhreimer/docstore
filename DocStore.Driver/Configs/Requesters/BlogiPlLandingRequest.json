@@ -1,0 +1,22 @@
+﻿{
+  "$comment": "not currently in use b/c couldn't get json results to return",
+  "verb": "post",
+  "headers":
+  {
+    "Host":"www.blogi.pl",
+    "User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:105.0) Gecko/20100101 Firefox/105.0",
+    "Accept": "application/json",
+    "Accept-Charset": "utf-8",
+    "Accept-Language":"en-US,en;q=0.5",
+    "X-Requested-With":"XMLHttpRequest",
+    "Origin":"https://www.blogi.pl",
+    "Referer":"https://www.blogi.pl/",
+    "Sec-Fetch-Dest":"empty",
+    "Connection": "keep-alive",
+    "Sec-Fetch-Mode":"cors",
+    "Sec-Fetch-Site":"same-origin",
+    "TE":"trailers"
+  },
+  "body": "index=0&category=0",
+  "format": "application/x-www-form-urlencoded"
+}

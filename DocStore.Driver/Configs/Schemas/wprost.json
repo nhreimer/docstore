@@ -1,0 +1,35 @@
+{
+  "landing":
+  [{
+    "query": "//a[@class='news-title']",
+    "attribute": "href"
+  }],
+  "title":
+  [{
+    "query": "//h1[contains(@class,'art-title')]",
+    "useSingleNode": true
+  }],
+  "published":
+  [{
+    "query": "//meta[@property='article:published_time']",
+    "attribute": "content",
+    "useSingleNode": true
+  }],
+  "paragraphs":
+  [
+    {
+      "$comment": "title",
+      "query": "//h1[contains(@class,'art-title')]",
+      "useSingleNode": true
+    },
+    {
+      "$comment": "lead",
+      "query": "//div[@id='art-lead-inner']",
+      "useSingleNode": true
+    },
+    {
+      "$comment": "some behind paywalls but articles still seem intact",
+      "query": "//div[@id='art-text-inner']/p"
+    }
+  ]
+}

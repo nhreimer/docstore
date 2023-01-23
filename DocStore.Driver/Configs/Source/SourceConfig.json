@@ -1,0 +1,282 @@
+[
+  {
+    "XCmdConfigFile": "D:/projects/_myprojects/DocStore/DocStore.Driver/Configs/Schemas/SuperExpress.json",
+    "SourceId": 31,
+    "SourceName": "SuperExpress",
+    "LandingUrl": "https://www.se.pl/",
+    "UrlPrefix": "https:",
+    "UrlPostfix": "",
+    "Skip": false,
+    "MinWaitInMs": 5000,
+    "MaxWaitInMs": 10000,
+    "DataFormats":
+    {
+      "Landing": "html",
+      "Content": "html"
+    },
+    "Requesters":
+    {
+      "Landing": "D:\\projects\\_myprojects\\DocStore\\DocStore.Driver\\Configs\\Requesters\\HttpGetRequest.json",
+      "Content": "D:\\projects\\_myprojects\\DocStore\\DocStore.Driver\\Configs\\Requesters\\HttpGetRequest.json"
+    }
+  },
+  {
+    "$comment": "sometimes // occurs in the link but it seems to work fine still",
+    "XCmdConfigFile": "D:/projects/_myprojects/DocStore/DocStore.Driver/Configs/Schemas/Rzeczpospolita.json",
+    "SourceId": 1,
+    "SourceName": "Rzeczpospolita",
+    "LandingUrl": "https://www.rp.pl/",
+    "UrlPrefix": "https://www.rp.pl",
+    "UrlPostfix": "",
+    "Skip": false,
+    "MinWaitInMs": 5000,
+    "MaxWaitInMs": 10000,
+    "DataFormats":
+    {
+      "Landing": "html",
+      "Content": "html"
+    },
+    "Requesters":
+    {
+      "Landing": "D:\\projects\\_myprojects\\DocStore\\DocStore.Driver\\Configs\\Requesters\\HttpGetRequest.json",
+      "Content": "D:\\projects\\_myprojects\\DocStore\\DocStore.Driver\\Configs\\Requesters\\HttpGetRequest.json"
+    }
+  },
+  {
+    "XCmdConfigFile": "D:/projects/_myprojects/DocStore/DocStore.Driver/Configs/Schemas/Gosc.json",
+    "SourceId": 13,
+    "SourceName": "Gosc",
+    "LandingUrl": "https://www.gosc.pl/",
+    "UrlPrefix": "https://www.gosc.pl",
+    "UrlPostfix": "",
+    "Skip": false,
+    "MinWaitInMs": 5000,
+    "MaxWaitInMs": 10000,
+    "DataFormats":
+    {
+      "Landing": "html",
+      "Content": "html"
+    },
+    "Requesters":
+    {
+      "Landing": "D:\\projects\\_myprojects\\DocStore\\DocStore.Driver\\Configs\\Requesters\\HttpGetRequest.json",
+      "Content": "D:\\projects\\_myprojects\\DocStore\\DocStore.Driver\\Configs\\Requesters\\HttpGetRequest.json"
+    }
+  },
+  {
+    "XCmdConfigFile": "D:/projects/_myprojects/DocStore/DocStore.Driver/Configs/Schemas/DoRzeczy.json",
+    "SourceId": 19,
+    "SourceName": "DoRzeczy",
+    "LandingUrl": "https://dorzeczy.pl/",
+    "UrlPrefix": "",
+    "UrlPostfix": "",
+    "Skip": false,
+    "MinWaitInMs": 10000,
+    "MaxWaitInMs": 15000,
+    "DataFormats":
+    {
+      "Landing": "html",
+      "Content": "html"
+    },
+    "Requesters":
+    {
+      "Landing": "D:\\projects\\_myprojects\\DocStore\\DocStore.Driver\\Configs\\Requesters\\HttpGetRequest.json",
+      "Content": "D:\\projects\\_myprojects\\DocStore\\DocStore.Driver\\Configs\\Requesters\\HttpGetRequest.json"
+    }
+  },
+  {
+    "XCmdConfigFile": "D:/projects/_myprojects/DocStore/DocStore.Driver/Configs/Schemas/NationalGeographic.json",
+    "SourceId": 27,
+    "SourceName": "NationalGeographic",
+    "LandingUrl": "https://www.national-geographic.pl/",
+    "UrlPrefix": "https://www.national-geographic.pl",
+    "UrlPostfix": "",
+    "Skip": false,
+    "MinWaitInMs": 5000,
+    "MaxWaitInMs": 10000,
+    "DataFormats":
+    {
+      "Landing": "html",
+      "Content": "html"
+    },
+    "Requesters":
+    {
+      "Landing": "D:\\projects\\_myprojects\\DocStore\\DocStore.Driver\\Configs\\Requesters\\HttpGetRequest.json",
+      "Content": "D:\\projects\\_myprojects\\DocStore\\DocStore.Driver\\Configs\\Requesters\\HttpGetRequest.json"
+    }
+  },
+  {
+    "XCmdConfigFile": "D:/projects/_myprojects/DocStore/DocStore.Driver/Configs/Schemas/Focus.json",
+    "SourceId": 10,
+    "SourceName": "Focus",
+    "LandingUrl": "https://www.focus.pl/",
+    "UrlPrefix": "https://www.focus.pl",
+    "UrlPostfix": "",
+    "Skip": false,
+    "MinWaitInMs": 10000,
+    "MaxWaitInMs": 15000,
+    "DataFormats":
+    {
+      "Landing": "html",
+      "Content": "html"
+    },
+    "Requesters":
+    {
+      "Landing": "D:\\projects\\_myprojects\\DocStore\\DocStore.Driver\\Configs\\Requesters\\HttpGetRequest.json",
+      "Content": "D:\\projects\\_myprojects\\DocStore\\DocStore.Driver\\Configs\\Requesters\\HttpGetRequest.json"
+    }
+  },
+  {
+    "$comment": "landing content is a JSON request",
+    "XCmdConfigFile": "D:/projects/_myprojects/DocStore/DocStore.Driver/Configs/Schemas/Cybersport.json",
+    "SourceId": 32,
+    "SourceName": "cybersport",
+    "LandingUrl": "https://cybersport.pl/api/collection/post?format=short",
+    "UrlPrefix": "https://cybersport.pl/",
+    "UrlPostfix": "",
+    "Skip": false,
+    "MinWaitInMs": 5000,
+    "MaxWaitInMs": 10000,
+    "DataFormats":
+    {
+      "$comment": "request json landing page",
+      "Landing": "json",
+      "Content": "html"
+    },
+    "Requesters": 
+    {
+      "Landing": "D:\\projects\\_myprojects\\DocStore\\DocStore.Driver\\Configs\\Requesters\\CybersportLandingRequest.json",
+      "Content": "D:\\projects\\_myprojects\\DocStore\\DocStore.Driver\\Configs\\Requesters\\HttpGetRequest.json"
+    }
+  },
+  {
+    "XCmdConfigFile": "D:/projects/_myprojects/DocStore/DocStore.Driver/Configs/Schemas/Krytyka.json",
+    "SourceId": 20,
+    "SourceName": "Krytyka",
+    "LandingUrl": "https://krytykapolityczna.pl/",
+    "UrlPrefix": "",
+    "UrlPostfix": "",
+    "Skip": false,
+    "MinWaitInMs": 5000,
+    "MaxWaitInMs": 10000,
+    "DataFormats":
+    {
+      "Landing": "html",
+      "Content": "html"
+    },
+    "Requesters":
+    {
+      "Landing": "D:\\projects\\_myprojects\\DocStore\\DocStore.Driver\\Configs\\Requesters\\HttpGetRequest.json",
+      "Content": "D:\\projects\\_myprojects\\DocStore\\DocStore.Driver\\Configs\\Requesters\\HttpGetRequest.json"
+    }
+  },
+  {
+    "XCmdConfigFile": "D:/projects/_myprojects/DocStore/DocStore.Driver/Configs/Schemas/Urania.json",
+    "SourceId": 33,
+    "SourceName": "Urania",
+    "LandingUrl": "https://www.urania.edu.pl/",
+    "UrlPrefix": "https://www.urania.edu.pl",
+    "UrlPostfix": "",
+    "Skip": false,
+    "MinWaitInMs": 5000,
+    "MaxWaitInMs": 10000,
+    "DataFormats":
+    {
+      "Landing": "html",
+      "Content": "html"
+    },
+    "Requesters":
+    {
+      "Landing": "D:\\projects\\_myprojects\\DocStore\\DocStore.Driver\\Configs\\Requesters\\HttpGetRequest.json",
+      "Content": "D:\\projects\\_myprojects\\DocStore\\DocStore.Driver\\Configs\\Requesters\\HttpGetRequest.json"
+    }
+  },
+  {
+    "XCmdConfigFile": "D:/projects/_myprojects/DocStore/DocStore.Driver/Configs/Schemas/wprost.json",
+    "SourceId": 15,
+    "SourceName": "wprost",
+    "LandingUrl": "https://www.wprost.pl/",
+    "UrlPrefix": "",
+    "UrlPostfix": "",
+    "Skip": false,
+    "MinWaitInMs": 5000,
+    "MaxWaitInMs": 10000,
+    "DataFormats":
+    {
+      "Landing": "html",
+      "Content": "html"
+    },
+    "Requesters":
+    {
+      "Landing": "D:\\projects\\_myprojects\\DocStore\\DocStore.Driver\\Configs\\Requesters\\HttpGetRequest.json",
+      "Content": "D:\\projects\\_myprojects\\DocStore\\DocStore.Driver\\Configs\\Requesters\\HttpGetRequest.json"
+    }
+  },
+  {
+    "$comment": "json to json. the UrlPostfix MUST be there or paragraphs omitted.",
+    "XCmdConfigFile": "D:/projects/_myprojects/DocStore/DocStore.Driver/Configs/Schemas/Culture.json",
+    "SourceId": 34,
+    "SourceName": "culture.pl",
+    "LandingUrl": "https://api.culture.pl/pl/api/node/advanced_page/55fe68fa-11fa-44bb-875b-e1235a5b0fc0?include=default",
+    "UrlPrefix": "https://api.culture.pl/pl/api/node/article/",
+    "UrlPostfix": "?include=default",
+    "Skip": false,
+    "MinWaitInMs": 5000,
+    "MaxWaitInMs": 10000,
+    "DataFormats":
+    {
+      "$comment": "JSON to XML using XDocument",
+      "Landing": "json",
+      "Content": "json"
+    },
+    "Requesters":
+    {
+      "Landing": "D:\\projects\\_myprojects\\DocStore\\DocStore.Driver\\Configs\\Requesters\\HttpGetRequest.json",
+      "Content": "D:\\projects\\_myprojects\\DocStore\\DocStore.Driver\\Configs\\Requesters\\HttpGetRequest.json"
+    }
+  },
+  {
+    "$comment": "can't get fuckin json to be returned from the feed",
+    "XCmdConfigFile": "D:/projects/_myprojects/DocStore/DocStore.Driver/Configs/Schemas/BlogPl.json",
+    "SourceId": 35,
+    "SourceName": "blogi.pl",
+    "LandingUrl": "https://www.blogi.pl/artykuly.html",
+    "UrlPrefix": "https://www.blogi.pl/",
+    "UrlPostfix": "",
+    "Skip": false,
+    "MinWaitInMs": 5000,
+    "MaxWaitInMs": 10000,
+    "DataFormats":
+    {
+      "Landing": "html",
+      "Content": "html"
+    },
+    "Requesters":
+    {
+      "Landing": "D:\\projects\\_myprojects\\DocStore\\DocStore.Driver\\Configs\\Requesters\\HttpGetRequest.json",
+      "Content": "D:\\projects\\_myprojects\\DocStore\\DocStore.Driver\\Configs\\Requesters\\HttpGetRequest.json"
+    }
+  },
+  {
+    "$comment": "most content is hidden behind a paywall. so this is skipped.",
+    "XCmdConfigFile": "D:/projects/_myprojects/DocStore/DocStore.Driver/Configs/Schemas/Newsweek.json",
+    "SourceId": 8,
+    "SourceName": "Newsweek",
+    "LandingUrl": "https://www.newsweek.pl/",
+    "UrlPrefix": "",
+    "UrlPostfix": "",
+    "Skip": true,
+    "MinWaitInMs": 5000,
+    "MaxWaitInMs": 10000,
+    "DataFormats":
+    {
+      "Landing": "html",
+      "Content": "html"
+    },
+    "Requesters":
+    {
+      "Landing": "D:\\projects\\_myprojects\\DocStore\\DocStore.Driver\\Configs\\Requesters\\HttpGetRequest.json",
+      "Content": "D:\\projects\\_myprojects\\DocStore\\DocStore.Driver\\Configs\\Requesters\\HttpGetRequest.json"
+    }
+  }
+]

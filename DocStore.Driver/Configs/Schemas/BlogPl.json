@@ -1,0 +1,38 @@
+﻿{
+  "landing":
+  [{
+    "query": "//div[@id='articles']//div[@class='text']/a",
+    "attribute": "href"
+  }],
+  "title":
+  [{
+    "query": "//div[@class='title']|//h1[starts-with(@class,'title')]",
+    "useSingleNode": true
+  }],
+  "published":
+  [{
+    "$comment": "kategoria: Parenting dodane: 01/07/2022",
+    "query": "//div[starts-with(@class,'header')]",
+    "useSingleNode": true,
+    "options":
+    {
+      "cultureName": "pl-PL"
+    }
+  }],
+  "paragraphs":
+  [
+    {
+      "$comment": "title",
+      "query": "//div[starts-with(@class,'title')]|//h1[starts-with(@class,'title')]",
+      "useSingleNode": true
+    },
+    {
+      "$comment": "lead",
+      "query": "//div[starts-with(@class,'lead')]",
+      "useSingleNode": true
+    },
+    {
+      "query": "//div[starts-with(@class,'content')]/p"
+    }
+  ]
+}

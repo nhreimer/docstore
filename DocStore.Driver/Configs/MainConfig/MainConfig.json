@@ -1,0 +1,5 @@
+﻿{
+  "SourcesConfig": "D:\\projects\\_myprojects\\DocStore\\DocStore.Driver\\Configs\\Source\\SourceConfig.json",
+  "BackendConfig": "D:\\projects\\_myprojects\\DocStore\\DocStore.Driver\\Configs\\Backend\\MySql.json",
+  "ErrorConfig": "D:\\projects\\_myprojects\\DocStore\\DocStore.Driver\\Configs\\Errors\\ErrorConfig.json"
+}

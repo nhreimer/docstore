@@ -1,0 +1,581 @@
+<root type="object">
+  <total type="number">10000</total>
+  <hits type="array">
+    <item type="object">
+      <date type="string">2022-10-09 05:12:52</date>
+      <thumbnail type="string">/wp-content/uploads/2022/10/JDG_yagao_worlds2022.jpg</thumbnail>
+      <taxonomies type="object">
+        <category type="array">
+          <item type="object">
+            <name type="string">League of Legends</name>
+            <id type="number">9</id>
+            <urlPath type="string">gry/league-of-legends</urlPath>
+            <urlKey type="string">league-of-legends</urlKey>
+          </item>
+        </category>
+      </taxonomies>
+      <author type="object">
+        <name type="string">Dawid Pątko</name>
+        <avatar type="string">https://0.gravatar.com/avatar/48b3e7f4babcaab552f2b7022d38f620</avatar>
+        <urlKey type="string">dpatko</urlKey>
+      </author>
+      <id type="number">332535</id>
+      <title type="string">Worlds: Dreszczowiec pomiędzy JDG a DK zakończony triumfem reprezentantów LPL</title>
+      <type type="string">post</type>
+      <excerpt type="string">Cóż to było za spotkanie! JD Gaming po fantastycznym meczu pełnym wielu emocji i zwrotów akcji pokonuje DWG KIA na Mistrzostwach Świata 2022 w League of Legends. To sprawia, że mistrzowie Chin znajdują się na szczycie grupy B Worlds 2022 z wynikiem 2-0.</excerpt>
+      <urlKey type="string">worlds-dreszczowiec-pomiedzy-jdg-a-dk-zakonczony-triumfem-reprezentantow-lpl</urlKey>
+    </item>
+    <item type="object">
+      <date type="string">2022-10-09 02:20:47</date>
+      <thumbnail type="string">/wp-content/uploads/2022/10/wunder-fnatic-worlds-2022.jpg</thumbnail>
+      <taxonomies type="object">
+        <category type="array">
+          <item type="object">
+            <name type="string">League of Legends</name>
+            <id type="number">9</id>
+            <urlPath type="string">gry/league-of-legends</urlPath>
+            <urlKey type="string">league-of-legends</urlKey>
+          </item>
+        </category>
+      </taxonomies>
+      <author type="object">
+        <name type="string">Jarosław Piłat</name>
+        <avatar type="string">https://0.gravatar.com/avatar/ec7eab1a9a08238bf765ade3f365e6e7</avatar>
+        <urlKey type="string">jpilat</urlKey>
+      </author>
+      <id type="number">332532</id>
+      <title type="string">Perfekcyjny dzień Europy na Worlds! Fnatic górą w starciu z T1</title>
+      <type type="string">post</type>
+      <excerpt type="string">Wygrana G2 Esports z Evil Geniuses może była spodziewana, ale w pozostałych meczach drużyny z League of Legends European Championship zdawały się mieć już znacznie mniejsze szanse. Jak się okazało, nic bardziej mylnego – po wygranej Rogue z DRX perfekcyjny dzień w wykonaniu europejskich formacji przypieczętowało Fnatic, pokonując T1.</excerpt>
+      <urlKey type="string">perfekcyjny-dzien-europy-na-worlds-fnatic-gora-w-starciu-z-t1</urlKey>
+    </item>
+    <item type="object">
+      <date type="string">2022-10-09 00:48:57</date>
+      <thumbnail type="string">/wp-content/uploads/2022/10/jankos-caps-g2-worlds-2022.jpg</thumbnail>
+      <taxonomies type="object">
+        <category type="array">
+          <item type="object">
+            <name type="string">League of Legends</name>
+            <id type="number">9</id>
+            <urlPath type="string">gry/league-of-legends</urlPath>
+            <urlKey type="string">league-of-legends</urlKey>
+          </item>
+        </category>
+      </taxonomies>
+      <author type="object">
+        <name type="string">Jarosław Piłat</name>
+        <avatar type="string">https://0.gravatar.com/avatar/ec7eab1a9a08238bf765ade3f365e6e7</avatar>
+        <urlKey type="string">jpilat</urlKey>
+      </author>
+      <id type="number">332526</id>
+      <title type="string">Bezproblemowe zwycięstwo G2 z Evil Geniuses. Drużyna Jankosa z pierwszą wygraną na Worlds</title>
+      <type type="string">post</type>
+      <excerpt type="string">W drugim meczu drugiego dnia fazy grupowej Worlds 2022 byliśmy świadkami kolejnej odsłony bitwy Ameryki Północnej z Europą, a także starcia polskich dżunglerów. Z sukcesu mogli cieszyć się Marcin "Jankos" Jankowski i jego koledzy z G2 Esports, którzy pokonali Evil Geniuses Kacpra "Inspireda" Słomy, odbijając się tym samym od dna i pogrążając EG na najniższej pozycji w tabeli.</excerpt>
+      <urlKey type="string">bezproblemowe-zwyciestwo-g2-z-evil-geniuses-druzyna-jankosa-z-pierwsza-wygrana-na-worlds</urlKey>
+    </item>
+    <item type="object">
+      <date type="string">2022-10-09 00:01:59</date>
+      <thumbnail type="string">/wp-content/uploads/2022/10/rogue_worlds2022.jpg</thumbnail>
+      <taxonomies type="object">
+        <category type="array">
+          <item type="object">
+            <name type="string">League of Legends</name>
+            <id type="number">9</id>
+            <urlPath type="string">gry/league-of-legends</urlPath>
+            <urlKey type="string">league-of-legends</urlKey>
+          </item>
+        </category>
+      </taxonomies>
+      <author type="object">
+        <name type="string">Dawid Laskowski</name>
+        <avatar type="string">https://0.gravatar.com/avatar/2ae12c11df759b36e249569946a31fde</avatar>
+        <urlKey type="string">dlaskowski</urlKey>
+      </author>
+      <id type="number">332519</id>
+      <title type="string">Rogue rozpoczyna Worlds od wygranej. Ekipa Trymbiego pokonuje DRX</title>
+      <type type="string">post</type>
+      <excerpt type="string">Drugi dzień fazy grupowej main eventu Worlds 2022 rozpoczęliśmy od starcia Rogue z DRX. Formacja Adriana "Trymbiego" Trybusa zaskoczyła koreańską piątkę, wygrywając dzisiejsze spotkanie. Dzięki temu Łotrzyki udanie rozpoczynają swój tegoroczny występ na mistrzostwach świata.</excerpt>
+      <urlKey type="string">rogue-rozpoczyna-worlds-od-wygranej-ekipa-trymbiego-pokonuje-drx</urlKey>
+    </item>
+    <item type="object">
+      <date type="string">2022-10-08 22:45:09</date>
+      <thumbnail type="string">/wp-content/uploads/2022/09/trymbi_rogue_lec22summer.jpg</thumbnail>
+      <taxonomies type="object">
+        <category type="array">
+          <item type="object">
+            <name type="string">Hot News</name>
+            <id type="number">4</id>
+            <urlPath type="string">hot-news</urlPath>
+            <urlKey type="string">hot-news</urlKey>
+          </item>
+          <item type="object">
+            <name type="string">League of Legends</name>
+            <id type="number">9</id>
+            <urlPath type="string">gry/league-of-legends</urlPath>
+            <urlKey type="string">league-of-legends</urlKey>
+          </item>
+        </category>
+      </taxonomies>
+      <author type="object">
+        <name type="string">Jarosław Piłat</name>
+        <avatar type="string">https://0.gravatar.com/avatar/ec7eab1a9a08238bf765ade3f365e6e7</avatar>
+        <urlKey type="string">jpilat</urlKey>
+      </author>
+      <id type="number">332517</id>
+      <title type="string">Europa w komplecie na dzisiejsze mecze Worlds. Najpierw Rogue, później G2 i Fnatic o kolejne punkty</title>
+      <type type="string">post</type>
+      <excerpt type="string">Przed nami drugi dzień fazy grupowej Worlds. Wczoraj reprezentanci Europy zanotowali łącznie słodko-gorzki bilans, bo choć Fnatic zwyciężyło Cloud9, to G2 Esports musiało uznać wyższość DWG KIA. Dziś siłą rzeczy na 50-procentową skuteczność nie ma miejsca – w akcji zobaczymy bowiem wszystkie trzy drużyny z LEC, więc fani z Europy będą bardziej lub mniej ukontentowani. Patrząc na dzisiejszych rywali drużyn ze Starego Kontynentu, zanosi się niestety na drugą opcję.</excerpt>
+      <urlKey type="string">europa-w-komplecie-na-dzisiejsze-mecze-worlds-najpierw-rogue-pozniej-g2-i-fnatic-o-kolejne-punkty</urlKey>
+    </item>
+    <item type="object">
+      <date type="string">2022-10-08 20:29:24</date>
+      <thumbnail type="string">/wp-content/uploads/2022/10/siuhy-gamerlegion-iem-road-to-rio-2022.jpg</thumbnail>
+      <taxonomies type="object">
+        <category type="array">
+          <item type="object">
+            <name type="string">Counter-Strike: Global Offensive</name>
+            <id type="number">2</id>
+            <urlPath type="string">gry/counter-strike-global-offensive</urlPath>
+            <urlKey type="string">counter-strike-global-offensive</urlKey>
+          </item>
+        </category>
+      </taxonomies>
+      <author type="object">
+        <name type="string">Maciej Ciemniewski</name>
+        <avatar type="string">https://0.gravatar.com/avatar/58430d9bda95a7344a8806089956b19e</avatar>
+        <urlKey type="string">mciemniewski</urlKey>
+      </author>
+      <id type="number">332504</id>
+      <title type="string">siuhy jedzie do Rio! GamerLegion pokonuje B8 w RMR</title>
+      <type type="string">post</type>
+      <excerpt type="string">GamerLegion po sensacyjnym zwycięstwie i wyrzuceniu G2 Esports z turnieju RMR przed Intel Extreme Masters Rio decydujący mecz rozegrało z B8 Esports. Pewna wygrana 2:0 zapewniła miejsce na nadchodzącym Majorze kolejnemu Polakowi, wszak barwy GL od jakiegoś czasu reprezentuje Kamil "siuhy" Szkaradek.</excerpt>
+      <urlKey type="string">siuhy-jedzie-do-rio-gamerlegion-pokonuje-b8-w-rmr</urlKey>
+    </item>
+    <item type="object">
+      <date type="string">2022-10-08 16:42:37</date>
+      <thumbnail type="string">/wp-content/uploads/2022/10/reatz2_illuminar_iem-rmr22.jpg</thumbnail>
+      <taxonomies type="object">
+        <category type="array">
+          <item type="object">
+            <name type="string">Counter-Strike: Global Offensive</name>
+            <id type="number">2</id>
+            <urlPath type="string">gry/counter-strike-global-offensive</urlPath>
+            <urlKey type="string">counter-strike-global-offensive</urlKey>
+          </item>
+        </category>
+      </taxonomies>
+      <author type="object">
+        <name type="string">Maciej Ciemniewski</name>
+        <avatar type="string">https://0.gravatar.com/avatar/58430d9bda95a7344a8806089956b19e</avatar>
+        <urlKey type="string">mciemniewski</urlKey>
+      </author>
+      <id type="number">332492</id>
+      <title type="string">Koniec marzeń Illuminar o Majorze. Sangal lepsze od Polaków</title>
+      <type type="string">post</type>
+      <excerpt type="string">Illuminar po raz koleny stawało przed obliczem eliminacji z turnieju RMR tym razem, stawiając czoła Sangal. Niestety międzynarodowa formacja okazała się lepsza i to ona weźmie udział w jutrzejszym decydującym spotkaniu.</excerpt>
+      <urlKey type="string">koniec-marzen-illuminar</urlKey>
+    </item>
+    <item type="object">
+      <date type="string">2022-10-08 14:48:48</date>
+      <thumbnail type="string">/wp-content/uploads/2022/10/flayy2_anonymo_eslmp22_md.jpg</thumbnail>
+      <taxonomies type="object">
+        <category type="array">
+          <item type="object">
+            <name type="string">Counter-Strike: Global Offensive</name>
+            <id type="number">2</id>
+            <urlPath type="string">gry/counter-strike-global-offensive</urlPath>
+            <urlKey type="string">counter-strike-global-offensive</urlKey>
+          </item>
+        </category>
+      </taxonomies>
+      <author type="object">
+        <name type="string">Maciej Ciemniewski</name>
+        <avatar type="string">https://0.gravatar.com/avatar/58430d9bda95a7344a8806089956b19e</avatar>
+        <urlKey type="string">mciemniewski</urlKey>
+      </author>
+      <id type="number">332484</id>
+      <title type="string">Flayy przeniesiony na ławkę Anonymo</title>
+      <type type="string">post</type>
+      <excerpt type="string">Otrzymaliśmy dziś informacje, której można się było spodziewać już od jakiegoś czasu. Wyniki Anonymo Esports ostatnio nie powalały na kolana, a dokładając do tego sprawy prywatne Alana "Flayya" Krupy, podjęto decyzję o przeniesieniu zawodnika na ławkę.</excerpt>
+      <urlKey type="string">flayy-przeniesiony-na-lawke-anonymo</urlKey>
+    </item>
+    <item type="object">
+      <date type="string">2022-10-08 14:36:47</date>
+      <thumbnail type="string">/wp-content/uploads/2022/09/f1ku3_ogogog_eslchallengermelbourne22.jpg</thumbnail>
+      <taxonomies type="object">
+        <category type="array">
+          <item type="object">
+            <name type="string">Counter-Strike: Global Offensive</name>
+            <id type="number">2</id>
+            <urlPath type="string">gry/counter-strike-global-offensive</urlPath>
+            <urlKey type="string">counter-strike-global-offensive</urlKey>
+          </item>
+        </category>
+      </taxonomies>
+      <author type="object">
+        <name type="string">Andrzej Kowalski</name>
+        <avatar type="string">https://0.gravatar.com/avatar/48828b762e658aed99fa5b6a4d8a6849</avatar>
+        <urlKey type="string">akowalski</urlKey>
+      </author>
+      <id type="number">332480</id>
+      <title type="string">F1KU z biletem do Rio. OG awansuje na Majora!</title>
+      <type type="string">post</type>
+      <excerpt type="string">Dzisiaj o awans na Intel Extreme Masters w Rio walczyło OG oraz Outsiders. Mecz o Majora był bardzo wyrównany i potrzeba było trzech map, aby wyłonić ekipę zwycięzców. A tymi okazali się Maciej "F1KU" Miklas wraz z kolegami!</excerpt>
+      <urlKey type="string">f1ku-z-biletem-do-rio-og-awansuje-na-majora</urlKey>
+    </item>
+    <item type="object">
+      <date type="string">2022-10-08 13:15:33</date>
+      <thumbnail type="string">/wp-content/uploads/2022/09/jedqr.jpg</thumbnail>
+      <taxonomies type="object">
+        <category type="array">
+          <item type="object">
+            <name type="string">Counter-Strike: Global Offensive</name>
+            <id type="number">2</id>
+            <urlPath type="string">gry/counter-strike-global-offensive</urlPath>
+            <urlKey type="string">counter-strike-global-offensive</urlKey>
+          </item>
+          <item type="object">
+            <name type="string">Cybersport Extra</name>
+            <id type="number">7</id>
+            <urlPath type="string">cybersport-extra</urlPath>
+            <urlKey type="string">cybersport-extra</urlKey>
+          </item>
+          <item type="object">
+            <name type="string">ESL Mistrzostwa Polski</name>
+            <id type="number">12408</id>
+            <urlPath type="string">esl/esl-mistrzostwa-polski</urlPath>
+            <urlKey type="string">esl-mistrzostwa-polski</urlKey>
+          </item>
+        </category>
+      </taxonomies>
+      <author type="object">
+        <name type="string">Maciej Petryszyn</name>
+        <avatar type="string">https://0.gravatar.com/avatar/dbe7acdefc6290bcd5f8cf220083073b</avatar>
+        <urlKey type="string">mpetryszyn</urlKey>
+      </author>
+      <id type="number">332445</id>
+      <title type="string">ESL MP i statystyczne podsumowanie. Kto wypada najlepiej po sześciu kolejkach?</title>
+      <type type="string">post</type>
+      <excerpt type="string">Za nami już sześć kolejek fazy zasadniczej ESL Mistrzostw Polski Jesień 2022. A to oznacza, że jesteśmy coraz bliżej ostatecznych rozstrzygnięć jeżeli chodzi o kwestię awansu do fazy pucharowej. Cześć ekip w kończącym się tygodniu postawiła kolejny krok na drodze do swojego celu, inne zaś znacznie się od niego oddaliły.</excerpt>
+      <urlKey type="string">esl-mp-i-statystyczne-podsumowanie-kto-wypada-najlepiej-po-6-kolejkach</urlKey>
+    </item>
+    <item type="object">
+      <date type="string">2022-10-08 10:47:41</date>
+      <thumbnail type="string">/wp-content/uploads/2022/10/illuminar_iem-rmr22.jpg</thumbnail>
+      <taxonomies type="object">
+        <category type="array">
+          <item type="object">
+            <name type="string">Counter-Strike: Global Offensive</name>
+            <id type="number">2</id>
+            <urlPath type="string">gry/counter-strike-global-offensive</urlPath>
+            <urlKey type="string">counter-strike-global-offensive</urlKey>
+          </item>
+          <item type="object">
+            <name type="string">Hot News</name>
+            <id type="number">4</id>
+            <urlPath type="string">hot-news</urlPath>
+            <urlKey type="string">hot-news</urlKey>
+          </item>
+          <item type="object">
+            <name type="string">IEM</name>
+            <id type="number">8</id>
+            <urlPath type="string">iem</urlPath>
+            <urlKey type="string">iem</urlKey>
+          </item>
+        </category>
+      </taxonomies>
+      <author type="object">
+        <name type="string">Maciej Petryszyn</name>
+        <avatar type="string">https://0.gravatar.com/avatar/dbe7acdefc6290bcd5f8cf220083073b</avatar>
+        <urlKey type="string">mpetryszyn</urlKey>
+      </author>
+      <id type="number">332473</id>
+      <title type="string">Przed Illuminar kolejny mecz o życie na Road to Rio</title>
+      <type type="string">post</type>
+      <excerpt type="string">Wczoraj gracze Illuminar Gaming zachowali życie i nadal rywalizują na Intel Extreme Masters Road to Rio. Polska formacja nie ma jednak czasu na odpoczynek, bo już dziś przystąpi do kolejnego boju, którego stawką będzie jej przyszłość na eliminacjach do Majora CS:GO.</excerpt>
+      <urlKey type="string">przed-illuminar-kolejny-mecz-o-zycie-na-road-to-rio</urlKey>
+    </item>
+    <item type="object">
+      <date type="string">2022-10-08 09:50:29</date>
+      <thumbnail type="string">/wp-content/uploads/2022/10/Sacy-LOUD-VALORANT-Champions-1.jpg</thumbnail>
+      <taxonomies type="object">
+        <category type="array">
+          <item type="object">
+            <name type="string">VALORANT</name>
+            <id type="number">13440</id>
+            <urlPath type="string">gry/valorant</urlPath>
+            <urlKey type="string">valorant</urlKey>
+          </item>
+        </category>
+      </taxonomies>
+      <author type="object">
+        <name type="string">Andrzej Kowalski</name>
+        <avatar type="string">https://0.gravatar.com/avatar/48828b762e658aed99fa5b6a4d8a6849</avatar>
+        <urlKey type="string">akowalski</urlKey>
+      </author>
+      <id type="number">332469</id>
+      <title type="string">Sentinels zatrudni mistrzów świata?</title>
+      <type type="string">post</type>
+      <excerpt type="string">Ta plotka transferowa zatrzęsła w nocy światem VALORANTA. Najbardziej poruszone są oczywiście obydwie Ameryki, ale chyba nikt nie spodziewał się takiego zwrotu akcji. Dwóch mistrzów świata z LOUD podobno ma rozmawiać z Sentinels.</excerpt>
+      <urlKey type="string">sentinels-zatrudni-mistrzow-swiata</urlKey>
+    </item>
+    <item type="object">
+      <date type="string">2022-10-08 04:11:06</date>
+      <thumbnail type="string">/wp-content/uploads/2022/07/faker_t1_msi2022.jpg</thumbnail>
+      <taxonomies type="object">
+        <category type="array">
+          <item type="object">
+            <name type="string">League of Legends</name>
+            <id type="number">9</id>
+            <urlPath type="string">gry/league-of-legends</urlPath>
+            <urlKey type="string">league-of-legends</urlKey>
+          </item>
+        </category>
+      </taxonomies>
+      <author type="object">
+        <name type="string">Dawid Pątko</name>
+        <avatar type="string">https://0.gravatar.com/avatar/48b3e7f4babcaab552f2b7022d38f620</avatar>
+        <urlKey type="string">dpatko</urlKey>
+      </author>
+      <id type="number">332465</id>
+      <title type="string">Worlds: Korea z pierwszym zwycięstwem nad Chinami w fazie grupowej</title>
+      <type type="string">post</type>
+      <excerpt type="string">Przez ostatnie kilka lat pojedynki najlepszych drużyn z LCK z topowymi formacjami z LPL na Worlds to mecze na najwyższym poziomie. Tym razem jednak była to jednostronna dominacja. T1 pokonało EDG i zgarnęło pierwsze oczko w fazie grupowej Mistrzostw Świata 2022 w League of Legends.</excerpt>
+      <urlKey type="string">worlds-korea-z-pierwszym-zwyciestwem-nad-chinami-w-fazie-grupowej</urlKey>
+    </item>
+    <item type="object">
+      <date type="string">2022-10-08 03:31:18</date>
+      <thumbnail type="string">/wp-content/uploads/2022/09/inspired_evilgeniuses_worlds22.jpg</thumbnail>
+      <taxonomies type="object">
+        <category type="array">
+          <item type="object">
+            <name type="string">League of Legends</name>
+            <id type="number">9</id>
+            <urlPath type="string">gry/league-of-legends</urlPath>
+            <urlKey type="string">league-of-legends</urlKey>
+          </item>
+        </category>
+      </taxonomies>
+      <author type="object">
+        <name type="string">Dawid Pątko</name>
+        <avatar type="string">https://0.gravatar.com/avatar/48b3e7f4babcaab552f2b7022d38f620</avatar>
+        <urlKey type="string">dpatko</urlKey>
+      </author>
+      <id type="number">332463</id>
+      <title type="string">Było blisko, ale nie tym razem. EG przegrywa z JDG na Worlds</title>
+      <type type="string">post</type>
+      <excerpt type="string">Co prawda były momenty, w których wydawało się, że Evil Geniuses mają szansę zaskoczyć JD Gaming, natomiast ostatecznie to mistrzowie Chin triumfowali i kończą pierwszy dzień Worlds 2022 z oczkiem na swoim koncie.</excerpt>
+      <urlKey type="string">bylo-blisko-ale-nie-tym-razem-eg-przegrywa-z-jdg-na-worlds-2</urlKey>
+    </item>
+    <item type="object">
+      <date type="string">2022-10-08 01:03:33</date>
+      <thumbnail type="string">/wp-content/uploads/2022/08/jankos_g2esport_lec.jpg</thumbnail>
+      <taxonomies type="object">
+        <category type="array">
+          <item type="object">
+            <name type="string">Hot News</name>
+            <id type="number">4</id>
+            <urlPath type="string">hot-news</urlPath>
+            <urlKey type="string">hot-news</urlKey>
+          </item>
+          <item type="object">
+            <name type="string">League of Legends</name>
+            <id type="number">9</id>
+            <urlPath type="string">gry/league-of-legends</urlPath>
+            <urlKey type="string">league-of-legends</urlKey>
+          </item>
+        </category>
+      </taxonomies>
+      <author type="object">
+        <name type="string">Dawid Pątko</name>
+        <avatar type="string">https://0.gravatar.com/avatar/48b3e7f4babcaab552f2b7022d38f620</avatar>
+        <urlKey type="string">dpatko</urlKey>
+      </author>
+      <id type="number">332453</id>
+      <title type="string">Absolutna deklasacja ze strony DWG KIA. G2 zmiażdżone podczas pierwszego dnia Worlds</title>
+      <type type="string">post</type>
+      <excerpt type="string">Bardzo niepokojący początek Worlds 2022 dla europejskich fanów League of Legends. Pierwszy pojedynek reprezentantów LEC z azjatycką drużyną zakończył się absolutną deklasacją ze strony zawodników ze wschodu. DWG KIA zmiażdżyło G2 Esports i zgarnęło pierwszy punkt w grupie B.</excerpt>
+      <urlKey type="string">absolutna-deklasacja-ze-strony-dwg-kia-g2-zmiazdzone-podczas-pierwszego-dnia-worlds</urlKey>
+    </item>
+    <item type="object">
+      <date type="string">2022-10-07 23:58:59</date>
+      <thumbnail type="string">/wp-content/uploads/2022/10/fnatic-humanoid-worlds-2022.jpg</thumbnail>
+      <taxonomies type="object">
+        <category type="array">
+          <item type="object">
+            <name type="string">Hot News</name>
+            <id type="number">4</id>
+            <urlPath type="string">hot-news</urlPath>
+            <urlKey type="string">hot-news</urlKey>
+          </item>
+          <item type="object">
+            <name type="string">League of Legends</name>
+            <id type="number">9</id>
+            <urlPath type="string">gry/league-of-legends</urlPath>
+            <urlKey type="string">league-of-legends</urlKey>
+          </item>
+        </category>
+      </taxonomies>
+      <author type="object">
+        <name type="string">Dawid Pątko</name>
+        <avatar type="string">https://0.gravatar.com/avatar/48b3e7f4babcaab552f2b7022d38f620</avatar>
+        <urlKey type="string">dpatko</urlKey>
+      </author>
+      <id type="number">332443</id>
+      <title type="string">Powolne, ale kontrolowane zwycięstwo Fnatic na Worlds. Cloud9 pokonane</title>
+      <type type="string">post</type>
+      <excerpt type="string">Faza grupowa Worlds 2022 rozpoczęta! W pierwszym starciu tegorocznych Mistrzostw Świata w League of Legends Cloud9 zmierzyło się z Fnatic. Tym razem górą była Europa.</excerpt>
+      <urlKey type="string">powolne-ale-kontrolowane-zwyciestwo-fnatic-na-worlds-cloud9-pokonane</urlKey>
+    </item>
+    <item type="object">
+      <date type="string">2022-10-07 22:35:03</date>
+      <thumbnail type="string">/wp-content/uploads/2022/10/w22-kiuske.jpg</thumbnail>
+      <taxonomies type="object">
+        <category type="array">
+          <item type="object">
+            <name type="string">Cybersport Extra</name>
+            <id type="number">7</id>
+            <urlPath type="string">cybersport-extra</urlPath>
+            <urlKey type="string">cybersport-extra</urlKey>
+          </item>
+          <item type="object">
+            <name type="string">League of Legends</name>
+            <id type="number">9</id>
+            <urlPath type="string">gry/league-of-legends</urlPath>
+            <urlKey type="string">league-of-legends</urlKey>
+          </item>
+        </category>
+      </taxonomies>
+      <author type="object">
+        <name type="string">Dominik Erdman</name>
+        <avatar type="string">https://0.gravatar.com/avatar/c44dfc38f4f85234a4772667f897989b</avatar>
+        <urlKey type="string">derdman</urlKey>
+      </author>
+      <id type="number">332434</id>
+      <title type="string">10 pytań przed fazą grupową Worlds – Jakub "Kiuske" Wojciechowski</title>
+      <type type="string">post</type>
+      <excerpt type="string">Już wkrótce rozpocznie się faza grupowa Worlds 2022. Zanim ruszy pierwszy mecz, zapraszamy Was do zapoznania się z ostatnimi odpowiedziami na nasze pytania dotyczące tego etapu zmagań oraz wrażeń z play-inów. O tym, jak to wygląda z jego perspektywy, opowiedział nam szkoleniowiec Illuminar Gaming, Jakub "Kiuske" Wojciechowski.</excerpt>
+      <urlKey type="string">10-pytan-przed-faza-grupowa-worlds-jakub-kiuske-wojciechowski</urlKey>
+    </item>
+    <item type="object">
+      <date type="string">2022-10-07 21:30:13</date>
+      <thumbnail type="string">/wp-content/uploads/2022/10/siuhy2_gamerlegion_iem-rmr22.jpg</thumbnail>
+      <taxonomies type="object">
+        <category type="array">
+          <item type="object">
+            <name type="string">Counter-Strike: Global Offensive</name>
+            <id type="number">2</id>
+            <urlPath type="string">gry/counter-strike-global-offensive</urlPath>
+            <urlKey type="string">counter-strike-global-offensive</urlKey>
+          </item>
+          <item type="object">
+            <name type="string">ESL</name>
+            <id type="number">5</id>
+            <urlPath type="string">esl</urlPath>
+            <urlKey type="string">esl</urlKey>
+          </item>
+        </category>
+      </taxonomies>
+      <author type="object">
+        <name type="string">Maciej Ciemniewski</name>
+        <avatar type="string">https://0.gravatar.com/avatar/58430d9bda95a7344a8806089956b19e</avatar>
+        <urlKey type="string">mciemniewski</urlKey>
+      </author>
+      <id type="number">332433</id>
+      <title type="string">GamerLegion z siuuuuhym na czele eliminuje G2 z RMR!</title>
+      <type type="string">post</type>
+      <excerpt type="string">Polacy mimo trudnego startu turnieju RMR mogą dzisiaj być zadowoleni z naszych reprezentantów. Najpierw Illuminar Gaming pokonało międzynarodowy mix FANTASY, a później GamerLegion wyeliminowało G2 Esports.</excerpt>
+      <urlKey type="string">gamerlegion-z-siuuuuhym-na-czele-eliminuje-g2-z-rmr</urlKey>
+    </item>
+    <item type="object">
+      <date type="string">2022-10-07 20:41:51</date>
+      <thumbnail type="string">/wp-content/uploads/2022/10/w22-aceum.jpg</thumbnail>
+      <taxonomies type="object">
+        <category type="array">
+          <item type="object">
+            <name type="string">Cybersport Extra</name>
+            <id type="number">7</id>
+            <urlPath type="string">cybersport-extra</urlPath>
+            <urlKey type="string">cybersport-extra</urlKey>
+          </item>
+          <item type="object">
+            <name type="string">League of Legends</name>
+            <id type="number">9</id>
+            <urlPath type="string">gry/league-of-legends</urlPath>
+            <urlKey type="string">league-of-legends</urlKey>
+          </item>
+        </category>
+      </taxonomies>
+      <author type="object">
+        <name type="string">Dominik Erdman</name>
+        <avatar type="string">https://0.gravatar.com/avatar/c44dfc38f4f85234a4772667f897989b</avatar>
+        <urlKey type="string">derdman</urlKey>
+      </author>
+      <id type="number">332430</id>
+      <title type="string">10 pytań przed fazą grupową Worlds – Julia "aceum" Nowak</title>
+      <type type="string">post</type>
+      <excerpt type="string">Faza grupowa Worlds 2022 coraz bliżej, ale my jeszcze nie kończymy z prezentacją odpowiedzi na naszych 10 pytań. Opinią na temat nadchodzącego etapu, wrażeniami z play-inów oraz ogólnymi predykcjami podzieliła się z nami analityczka TT wilhaben oraz Teamu Heretics – Julia "aceum" Nowak.</excerpt>
+      <urlKey type="string">10-pytan-przed-faza-grupowa-worlds-julia-aceum-nowak</urlKey>
+    </item>
+    <item type="object">
+      <date type="string">2022-10-07 19:27:26</date>
+      <thumbnail type="string">/wp-content/uploads/2022/10/w22-badlyyga.jpg</thumbnail>
+      <taxonomies type="object">
+        <category type="array">
+          <item type="object">
+            <name type="string">Cybersport Extra</name>
+            <id type="number">7</id>
+            <urlPath type="string">cybersport-extra</urlPath>
+            <urlKey type="string">cybersport-extra</urlKey>
+          </item>
+          <item type="object">
+            <name type="string">League of Legends</name>
+            <id type="number">9</id>
+            <urlPath type="string">gry/league-of-legends</urlPath>
+            <urlKey type="string">league-of-legends</urlKey>
+          </item>
+        </category>
+      </taxonomies>
+      <author type="object">
+        <name type="string">Dominik Erdman</name>
+        <avatar type="string">https://0.gravatar.com/avatar/c44dfc38f4f85234a4772667f897989b</avatar>
+        <urlKey type="string">derdman</urlKey>
+      </author>
+      <id type="number">332426</id>
+      <title type="string">10 pytań przed fazą grupową Worlds – Tomasz "Badlyyga" Bałdyga</title>
+      <type type="string">post</type>
+      <excerpt type="string">Faza grupowa Worlds 2022 coraz bliżej, ale zanim ruszy, kolejna dawka odpowiedzi na nasze pytania. O opinię przed kolejnym etapem tegorocznych mistrzostw świata w LoL-a poprosiliśmy również Tomasza "Badlyygę" Bałdygę, czyli dżunglera Gentlemen's Gaming.</excerpt>
+      <urlKey type="string">10-pytan-przed-faza-grupowa-worlds-tomasz-badlyyga-baldyga</urlKey>
+    </item>
+    <item type="object">
+      <date type="string">2022-10-07 17:27:07</date>
+      <thumbnail type="string">/wp-content/uploads/2022/10/w22-hajima-1.jpg</thumbnail>
+      <taxonomies type="object">
+        <category type="array">
+          <item type="object">
+            <name type="string">Cybersport Extra</name>
+            <id type="number">7</id>
+            <urlPath type="string">cybersport-extra</urlPath>
+            <urlKey type="string">cybersport-extra</urlKey>
+          </item>
+          <item type="object">
+            <name type="string">League of Legends</name>
+            <id type="number">9</id>
+            <urlPath type="string">gry/league-of-legends</urlPath>
+            <urlKey type="string">league-of-legends</urlKey>
+          </item>
+        </category>
+      </taxonomies>
+      <author type="object">
+        <name type="string">Dominik Erdman</name>
+        <avatar type="string">https://0.gravatar.com/avatar/c44dfc38f4f85234a4772667f897989b</avatar>
+        <urlKey type="string">derdman</urlKey>
+      </author>
+      <id type="number">332419</id>
+      <title type="string">10 pytań przed fazą grupową Worlds – Kamil "Hajima" Żmudzki</title>
+      <type type="string">post</type>
+      <excerpt type="string">Faza play-in Worlds 2022 zakończona, czas na główne danie w postaci fazy grupowej. Już dziś w akcji zobaczymy między innymi G2 Esports Marcina "Jankosa" Jankowskiego, DWG KIA czy też zakwalifikowane z poprzedniego etapu Fnatic oraz Evil Geniuses. Zanim jednak rzucimy się w wir walki, zapraszamy na kolejną dawkę predykcji od osób ze sceny LoL-a – na naszych 10 pytań przed fazą grupową Worlds odpowiedział Kamil "Hajima" Żmudzki.</excerpt>
+      <urlKey type="string">10-pytan-przed-faza-grupowa-worlds-kamil-hajima-zmudzki</urlKey>
+    </item>
+  </hits>
+</root>

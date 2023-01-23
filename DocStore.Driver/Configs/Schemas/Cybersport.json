@@ -1,0 +1,29 @@
+{
+  "landing":
+  [{
+    "$comment": "parsed from JSON converted to XML",
+    "query": "/root[1]/hits[1]/item/urlkey"
+  }],
+  "title":
+  [{
+    "query": "//h1[@class='title is-1']|//h1[1]",
+    "useSingleNode": true
+  }],
+  "published":
+  [{
+    "query": "//meta[@property='article:published_time']",
+    "attribute": "content",
+    "useSingleNode": true
+  }],
+  "paragraphs":
+  [
+    {
+      "$comment": "title",
+      "query": "//h1[@class='title is-1']|//h1[1]",
+      "useSingleNode": true
+    },
+    {
+      "query": "//div[@class='post-body']/p|//div[@class='post-body']/blockquote/p|//div[@class='post-content']/p"
+    }
+  ]
+}

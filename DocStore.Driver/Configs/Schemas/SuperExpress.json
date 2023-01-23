@@ -1,0 +1,47 @@
+{
+  "landing":
+  [{
+    "query": "//a[contains(@class,'--articles')]",
+    "attribute": "href"
+  }],
+  "title":
+  [{
+    "query": "//div[@class='title']/h1",
+    "useSingleNode": true
+  }],
+  "published":
+  [{
+    "$comment": "haphazard with the date display",
+    "query": "//span[contains(@class,'pub_time_date')]",
+    "useSingleNode": true
+  }],
+  "paragraphs":
+  [
+    {
+      "$comment": "title",
+      "query": "//div[@class='title']/h1",
+      "useSingleNode": true
+    },
+    {
+      "$comment": "lead",
+      "query": "//article//p[starts-with(@class,'lead')]",
+      "useSingleNode": true
+    },
+    {
+      "$comment": "check for this first because its paragraphs are nested more",
+      "query": "//article//div[@class='block_list__container']",
+      "attribute": null,
+      "onSuccess": 
+      {
+        "query": "//article//div[@class='block_list__container']/p|//article//div[@class='block_list__container']/h2",
+        "attribute": null
+      },
+      "onFailure":
+      {
+        "$comment": "caused by articles from https://www.poradnikzdrowie.pl",
+        "query": "//article/p|//article/h2",
+        "attribute": null
+      }                
+    }
+  ]
+}

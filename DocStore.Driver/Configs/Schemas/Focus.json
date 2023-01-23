@@ -1,0 +1,34 @@
+{
+  "landing":
+  [{
+    "query": "//a[contains(@href,'/artykul/')]",
+    "attribute": "href"
+  }],
+  "title":
+  [{
+    "query": "//article/header//h1",
+    "useSingleNode": true
+  }],
+  "published":
+  [{
+    "query": "//meta[@property='article:published_time']",
+    "attribute": "content",
+    "useSingleNode": true
+  }],
+  "paragraphs":
+  [
+    {
+      "$comment": "title",
+      "query": "//article/header//h1",
+      "useSingleNode": true
+    },
+    {
+      "$comment": "lead",
+      "query": "//article/header//span[starts-with(@class,'block')]",
+      "useSingleNode": true
+    },
+    {
+      "query": "//div[@id='single-entry-content']/p"
+    }
+  ]
+}

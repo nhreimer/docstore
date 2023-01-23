@@ -1,0 +1,138 @@
+﻿<root type="object">
+    <status type="string">ok</status>
+    <end type="number">0</end>
+    <data type="array">
+        <item type="object">
+            <blog type="string">koziorowska-katarzyna.blogi.pl</blog>
+            <image type="string">//www.blogi.pl/static/recomended/images/64/643/64307/dafaf545f2981486687308a77d763ef6</image>
+            <title type="string">O hejterach</title>
+            <slug type="string">o-hejterach</slug>
+            <target type="string">//koziorowska-katarzyna.blogi.pl/wpis,o-hejterach</target>
+            <header type="string">Zadecydowałam. Od dziś nie zaprzątam sobie głowy bzdurnymi problemami. Od dziś mam w nosie komentarze od moich serdecznych wrogów, od dziś nie reaguję na docinki i próby sprowokowania mnie.</header>
+            <url type="string">wpis,o-hejterach,336.html</url>
+            <page type="number">0</page>
+            <index type="number">0</index>
+            <date type="string">1 października 2022, 14:37</date>
+            <cname type="string">Psychologia</cname>
+            <curl type="string">tematyka,psychologia,17.html</curl>
+        </item>
+        <item type="object">
+            <blog type="string">biznes.blogi.pl</blog>
+            <image type="string">//www.blogi.pl/static/recomended/images/64/643/64307/c43431d3128e0aaceabc99a0fb02fc67</image>
+            <title type="string">Handel idzie w lokalność</title>
+            <slug type="string">handel-idzie-w-lokalnosc</slug>
+            <target type="string">//biznes.blogi.pl/wpis,handel-idzie-w-lokalnosc</target>
+            <header type="string">Handel idzie w lokalność. W mniejszych miejscowościach rosną parki handlowe, w dużych miastach powierzchni pod handel dostarczają obiekty wielofunkcyjne i nowe osiedla mieszkaniowe
+
+
+
+                Choć galerie handlowe znów tłumnie odwiedzane są przez klientów, szczegól</header>
+            <url type="string">wpis,handel-idzie-w-lokalnosc,335.html</url>
+            <page type="number">0</page>
+            <index type="number">1</index>
+            <date type="string">28 września 2022, 15:36</date>
+            <cname type="string">Biznes</cname>
+            <curl type="string">tematyka,biznes,7.html</curl>
+        </item>
+        <item type="object">
+            <blog type="string">zdrowapolka.blogi.pl</blog>
+            <image type="string">//www.blogi.pl/static/recomended/images/64/643/64307/a9e66d5afd495fc454906b592128014f</image>
+            <title type="string">Leczenie łupieżu ziołami i lekarstwami ajurwedyjskimi</title>
+            <slug type="string">leczenie-lupiezu-ziolami-i-lekarstwami-ajurwedyjskimi</slug>
+            <target type="string">//zdrowapolka.blogi.pl/wpis,leczenie-lupiezu-ziolami-i-lekarstwami-ajurwedyjskimi</target>
+            <header type="string">Kiedy komórki skóry głowy nadmiernie obumierają i łuszczą się, stan znany jest jako łupież. Łupież jest łatwo widoczny w postaci płatków obecnych we włosach, któremu najczęściej towarzyszy swędzenie skóry głowy. Swędzenie może być łagodne lub ciężkie, w zależności od ilości występującego łupieżu.</header>
+            <url type="string">wpis,leczenie-lupiezu-ziolami-i-lekarstwami-ajurwedyjskimi,334.html</url>
+            <page type="number">0</page>
+            <index type="number">2</index>
+            <date type="string">2 października 2022, 19:04</date>
+            <cname type="string">Zdrowie</cname>
+            <curl type="string">tematyka,zdrowie,4.html</curl>
+        </item>
+        <item type="object">
+            <blog type="string">koziorowska-katarzyna.blogi.pl</blog>
+            <image type="string">//www.blogi.pl/static/recomended/images/64/643/64307/563ed31a9955a4cfc4788b95bbd63dc2</image>
+            <title type="string">komuś w potrzebie</title>
+            <slug type="string">komus-w-potrzebie</slug>
+            <target type="string">//koziorowska-katarzyna.blogi.pl/wpis,komus-w-potrzebie</target>
+            <header type="string">Odrobina poezji na niespokojne czasy - wiersz pani Anny Koziorowskiej.</header>
+            <url type="string">wpis,komus-w-potrzebie,333.html</url>
+            <page type="number">0</page>
+            <index type="number">3</index>
+            <date type="string">12 września 2022, 17:50</date>
+            <cname type="string">Poezja</cname>
+            <curl type="string">tematyka,poezja,22.html</curl>
+        </item>
+        <item type="object">
+            <blog type="string">mieszkaniowy.blogi.pl</blog>
+            <image type="string">//www.blogi.pl/static/recomended/images/64/643/64307/c07f3d98103eba5e38958242338c81b7</image>
+            <title type="string">Czy są chętni na lokale usługowe w nowych osiedlach</title>
+            <slug type="string">czy-sa-chetni-na-lokale-uslugowe-w-nowych-osiedlach</slug>
+            <target type="string">//mieszkaniowy.blogi.pl/wpis,czy-sa-chetni-na-lokale-uslugowe-w-nowych-osiedlach</target>
+            <header type="string">Jak dużym zainteresowaniem cieszą się lokale usługowe oferowane w inwestycjach mieszkaniowych? W których projektach są dostępne? Ile kosztują?</header>
+            <url type="string">wpis,czy-sa-chetni-na-lokale-uslugowe-w-nowych-osiedlach,332.html</url>
+            <page type="number">0</page>
+            <index type="number">4</index>
+            <date type="string">14 września 2022, 13:28</date>
+            <cname type="string">Biznes</cname>
+            <curl type="string">tematyka,biznes,7.html</curl>
+        </item>
+        <item type="object">
+            <blog type="string">mieszkaniowy.blogi.pl</blog>
+            <image type="string">//www.blogi.pl/static/recomended/images/64/643/64307/e624c647711f9c95a385d6f8accdaaef</image>
+            <title type="string">Milczenie nie usprawiedliwia przemilczeń.</title>
+            <slug type="string">milczenie-nie-usprawiedliwia-przemilczen-</slug>
+            <target type="string">//romancescam.blogi.pl/wpis,milczenie-nie-usprawiedliwia-przemilczen-</target>
+            <header type="string">Przekręt nie jest sprawą jednego człowieka. Oszuści miłosni działają w grupie i mają hierarchię oraz strukturę organizacyjną, która obejmuje głównego bossa, kierowników i pracowników / pracownice. Internet jest ich głównym źródłem "łowienia" swoich ofiar. Kontaktują się z Tobą online przez osobę, która wydaje się być Tobą zainteresowana. </header>
+            <url type="string">wpis,milczenie-nie-usprawiedliwia-przemilczen-,331.html</url>
+            <page type="number">0</page>
+            <index type="number">5</index>
+            <date type="string">14 września 2022, 17:23</date>
+            <cname type="string">Psychologia</cname>
+            <curl type="string">tematyka,psychologia,17.html</curl>
+        </item>
+        <item type="object">
+            <blog type="string">koziorowska-katarzyna.blogi.pl</blog>
+            <image type="string">//www.blogi.pl/static/recomended/images/64/643/64307/ba1f94139a7c146db2e72a08de53d666</image>
+            <title type="string">pudełko po zapałkach</title>
+            <slug type="string">pudelko-po-zapalkach</slug>
+            <target type="string">//koziorowska-katarzyna.blogi.pl/wpis,pudelko-po-zapalkach</target>
+            <header type="string">Wiersz autorstwa Pani Katarzyny Koziorowskiej.</header>
+            <url type="string">wpis,pudelko-po-zapalkach,330.html</url>
+            <page type="number">0</page>
+            <index type="number">6</index>
+            <date type="string">18 sierpnia 2022, 11:59</date>
+            <cname type="string">Poezja</cname>
+            <curl type="string">tematyka,poezja,22.html</curl>
+        </item>
+        <item type="object">
+            <blog type="string">mojemieszkanie.blogi.pl</blog>
+            <image type="string">//www.blogi.pl/static/recomended/images/79/790/79085/45c48685798f90c36f0a619a36138d54</image>
+            <title type="string">Czy mieszkaniówka hamuje z produkcją</title>
+            <slug type="string">czy-mieszkaniowka-hamuje-z-produkcja</slug>
+            <target type="string">//mojemieszkanie.blogi.pl/wpis,czy-mieszkaniowka-hamuje-z-produkcja</target>
+            <header type="string">Czy nowe uwarunkowania rynkowe zmuszają deweloperów do zmiany planów? Czy kolejne projekty będą realizować zgodnie z wcześniejszymi założeniami? Czy firmy poszukują atrakcyjniejszych sposobów na finansowanie inwestycji niż kredyty? O ile wzrósł koszt budowy mieszkań w ciągu ostatniego roku? </header>
+            <url type="string">wpis,czy-mieszkaniowka-hamuje-z-produkcja,329.html</url>
+            <page type="number">0</page>
+            <index type="number">7</index>
+            <date type="string">17 sierpnia 2022, 14:10</date>
+            <cname type="string">Biznes</cname>
+            <curl type="string">tematyka,biznes,7.html</curl>
+        </item>
+        <item type="object">
+            <blog type="string">pasjonatka123.blogi.pl</blog>
+            <image type="string">//www.blogi.pl/static/recomended/images/64/643/64307/9b596db66d7439db0124abb44b099b93</image>
+            <title type="string">Różnica między inteligencją, a mądrością</title>
+            <slug type="string">roznica-miedzy-inteligencja-a-madroscia</slug>
+            <target type="string">//pasjonatka123.blogi.pl/wpis,roznica-miedzy-inteligencja-a-madroscia</target>
+            <header type="string">Między tymi pojęciami są diametralne różnice , które chciałabym wam teraz przedstawić.
+
+                Inteligencja nie jest tym samym pojęciem co mądrość. </header>
+            <url type="string">wpis,roznica-miedzy-inteligencja-a-madroscia,328.html</url>
+            <page type="number">0</page>
+            <index type="number">8</index>
+            <date type="string">18 sierpnia 2022, 21:45</date>
+            <cname type="string">Psychologia</cname>
+            <curl type="string">tematyka,psychologia,17.html</curl>
+        </item>
+    </data>
+</root>

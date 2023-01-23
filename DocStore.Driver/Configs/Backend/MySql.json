@@ -1,0 +1,37 @@
+﻿{
+  "docstore":
+  {
+    "connection": "server=localhost;user=root;database=lektgrzo_polsla_polish;port=3307;password=YOUR_PASSWORD;pooling=true;default command timeout=0;Connection Timeout=300;charset=utf8;",
+    "database": "lektgrzo_polish_corpora",
+    "table": "objstore",
+    "queries":
+    {
+      "insert": "insert into `{0}`.`{1}` (objId, type, name, updated, isArchived, data) values('{2}','{3}','{4}','{5}',{6},'{7}')",      
+      "delete": "delete from `{0}`.`{1}` where objId='{2}'",
+      "update": "update `{0}`.`{1}` set objId='{2}',`type`='{3}',`name`='{4}',`updated`='{5}',`isArchived`= {6},`data`='{7}' where objId='{2}'",
+      "select": "select * from `{0}`.`{1}` where objId = '{2}'", 
+
+      "cursor": "select * from `{0}`.`{1}` where `type`='{2}' and `isArchived`=0 limit {3},{4}"
+    }
+  },
+  "articles":
+  {
+    "connection": "server=localhost;user=root;database=lektgrzo_polsla_polish;port=3307;password=YOUR_PASSWORD;pooling=true;default command timeout=0;Connection Timeout=300;charset=utf8;",
+    "database": "lektgrzo_polsla_corpora_master",
+    "table": "articles",
+    "queries": 
+    {
+      "insert": "insert into `{0}`.`{1}` values('{2}','{3}','{4}','{5}','{6}')"
+    }
+  },
+  "paragraphs":
+  {
+    "connection": "server=localhost;user=root;database=lektgrzo_polsla_polish;port=3307;password=YOUR_PASSWORD;pooling=true;default command timeout=0;Connection Timeout=300;charset=utf8;",
+    "database": "lektgrzo_polish_corpora",
+    "table": "paragraphs",
+    "queries":
+    {
+      "insert": "insert into `{0}`.`{1}` (idSource,idFeed,SearchParagraph,RetrieveChecksum,RetrieveParagraph) values({2},'{3}','{4}','{5}','{6}')"
+    }
+  }
+}
