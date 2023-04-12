@@ -1,4 +1,4 @@
-# A configuration-driven project for parsing, scraping, and a deduplicated data store.
+# A configuration-driven project for parsing and scraping attached to deduplicated data store.
 
 ## Modules
 ```
