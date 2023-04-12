@@ -1,3 +1,5 @@
+# A configuration-driven project for parsing, scraping, and a deduplicated data store.
+
 ## Modules
 ```
 DocStore.Engine   = Raw Storage Engine for Documents
